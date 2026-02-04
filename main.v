@@ -54,7 +54,7 @@ fn main() {
 
 	// If the upstream freaks out and mass deletes packages, don't delete them in the mirror
 	// 10% seems like a sane limit!
-	if packages.len > mirrored_packages.len * 0.9 {
+	if packages.len > int(f32(mirrored_packages.len) * 0.9) {
 		for mirrored in mirrored_packages {
 			if mirrored[..mirrored.len - 5] in packages {
 				continue
