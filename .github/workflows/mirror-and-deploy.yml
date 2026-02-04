@@ -23,11 +23,6 @@ jobs:
 
       - name: Setup V
         uses: vlang/setup-v@v1.4
-        with:
-          v-version: latest
-
-      - name: Install dependencies
-        run: v install
 
       - name: Run mirror script
         run: v run main.v
