@@ -1,0 +1,22 @@
+{
+    "id": 335,
+    "name": "alexferl.vest",
+    "url": "https://github.com/alexferl/vest",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 342,
+    "author": {
+        "id": 342,
+        "github_id": 0,
+        "username": "alexferl",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`p`, `t`, `1`, `4`, `Z`, `U`, `E`, `L`, `d`, `I`, `l`, `Y`, `U`, `V`, `j`, `v`, `2`, `C`, `7`, `4`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

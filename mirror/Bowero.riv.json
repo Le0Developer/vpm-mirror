@@ -1,0 +1,21 @@
+{
+    "id": 14,
+    "name": "Bowero.riv",
+    "url": "https://github.com/Bowero/riv",
+    "nr_downloads": -1,
+    "user_id": 21,
+    "author": {
+        "id": 21,
+        "github_id": 0,
+        "username": "Bowero",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "VMkHQgoNdolyGlTwOJnN|U",
+        "created_at": 1.68346839e+09,
+        "updated_at": 1.68346839e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.68346839e+09,
+    "created_at": 1.68346839e+09
+}

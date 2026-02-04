@@ -1,0 +1,23 @@
+{
+    "id": 550,
+    "name": "TahaHachana.clitable",
+    "description": "This package provides a simple API for pretty printing tabular data in V.",
+    "url": "https://github.com/TahaHachana/clitable",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1312,
+    "author": {
+        "id": 1312,
+        "github_id": 0,
+        "username": "TahaHachana",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`m`, `b`, `L`, `S`, `Z`, `Z`, `N`, `3`, `J`, `E`, `H`, `R`, `m`, `q`, `3`, `T`, `m`, `D`, `n`, `X`]",
+        "created_at": 1.721584215e+09,
+        "updated_at": 1.721584215e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.721584303e+09,
+    "created_at": 1.721584303e+09
+}

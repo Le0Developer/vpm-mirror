@@ -1,0 +1,23 @@
+{
+    "id": 449,
+    "name": "ken0x0a.dotenv",
+    "description": "dotenv for V",
+    "url": "https://github.com/ken0x0a/v-dotenv",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 783,
+    "author": {
+        "id": 783,
+        "github_id": 0,
+        "username": "ken0x0a",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`T`, `r`, `7`, `V`, `I`, `9`, `x`, `Z`, `w`, `O`, `7`, `m`, `M`, `5`, `Z`, `9`, `3`, `A`, `J`, `c`]",
+        "created_at": 1.694742516e+09,
+        "updated_at": 1.694742516e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.694742575e+09,
+    "created_at": 1.694742575e+09
+}

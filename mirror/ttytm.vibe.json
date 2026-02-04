@@ -1,0 +1,23 @@
+{
+    "id": 413,
+    "name": "ttytm.vibe",
+    "description": "Vibe is a request library that wraps libcurl to enable fast and\r\nreliable requests while providing a higher-level API.",
+    "url": "https://github.com/ttytm/vibe",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 674,
+    "author": {
+        "id": 674,
+        "github_id": 0,
+        "username": "ttytm",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`8`, `A`, `E`, `3`, `7`, `I`, `1`, `i`, `n`, `q`, `N`, `e`, `J`, `1`, `w`, `V`, `4`, `d`, `x`, `h`]",
+        "created_at": 1.69039077e+09,
+        "updated_at": 1.69039077e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.690390812e+09,
+    "created_at": 1.690390812e+09
+}

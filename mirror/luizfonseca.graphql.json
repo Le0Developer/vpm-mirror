@@ -1,0 +1,23 @@
+{
+    "id": 453,
+    "name": "luizfonseca.graphql",
+    "description": "GraphQL language parser package.\r\n\r\nFor more information see the GraphQL spec: https://graphql.org/\r\n\r\n\r\nThe library is inspired by the GraphQL.js package.",
+    "url": "https://github.com/luizfonseca/graphql-v",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 790,
+    "author": {
+        "id": 790,
+        "github_id": 0,
+        "username": "luizfonseca",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`q`, `x`, `E`, `I`, `s`, `s`, `H`, `v`, `1`, `V`, `1`, `z`, `7`, `o`, `Q`, `z`, `6`, `E`, `o`, `K`]",
+        "created_at": 1.694872606e+09,
+        "updated_at": 1.694872606e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.69497351e+09,
+    "created_at": 1.69497351e+09
+}

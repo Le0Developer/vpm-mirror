@@ -1,0 +1,26 @@
+{
+    "id": 640,
+    "name": "D4MI4NX.zip",
+    "description": "A WIP module for creating ZIP archives",
+    "documentation": "",
+    "url": "https://github.com/D4MI4NX/vzip",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1685,
+    "author": {
+        "id": 1685,
+        "github_id": 0,
+        "username": "D4MI4NX",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`8`, `N`, `z`, `v`, `q`, `o`, `h`, `c`, `d`, `i`, `e`, `A`, `q`, `t`, `V`, `3`, `n`, `X`, `E`, `l`]",
+        "created_at": 1.73774839e+09,
+        "updated_at": 1.73774839e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.754057317e+09,
+    "created_at": 1.754057317e+09
+}

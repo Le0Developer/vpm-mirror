@@ -1,0 +1,23 @@
+{
+    "id": 435,
+    "name": "evowizz.vadblib",
+    "description": "VAdbLib allows you to use ADB commands in your V language projects.",
+    "url": "https://github.com/evowizz/vadblib",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 704,
+    "author": {
+        "id": 704,
+        "github_id": 0,
+        "username": "evowizz",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`6`, `k`, `6`, `A`, `l`, `K`, `7`, `f`, `q`, `Y`, `q`, `a`, `A`, `C`, `Z`, `S`, `R`, `J`, `1`, `w`]",
+        "created_at": 1.691995137e+09,
+        "updated_at": 1.691995137e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.692627925e+09,
+    "created_at": 1.692627925e+09
+}

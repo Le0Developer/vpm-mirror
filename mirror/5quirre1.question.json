@@ -1,0 +1,26 @@
+{
+    "id": 647,
+    "name": "5quirre1.question",
+    "description": "makes user input easier for questions or smth LOL",
+    "documentation": "",
+    "url": "https://github.com/5quirre1/question_thing_v/blob/main/",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1895,
+    "author": {
+        "id": 1895,
+        "github_id": 0,
+        "username": "5quirre1",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`e`, `Y`, `h`, `T`, `H`, `m`, `c`, `H`, `K`, `R`, `v`, `m`, `j`, `H`, `h`, `x`, `N`, `1`, `u`, `D`]",
+        "created_at": 1.756075352e+09,
+        "updated_at": 1.756075352e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.75609228e+09,
+    "created_at": 1.75609228e+09
+}

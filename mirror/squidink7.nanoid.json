@@ -1,0 +1,23 @@
+{
+    "id": 578,
+    "name": "squidink7.nanoid",
+    "description": "A module for generating nanoid (https://github.com/ai/nanoid) style ID strings",
+    "url": "https://github.com/squidink7/nanoid",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1390,
+    "author": {
+        "id": 1390,
+        "github_id": 0,
+        "username": "squidink7",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`j`, `v`, `L`, `w`, `e`, `c`, `n`, `J`, `k`, `p`, `r`, `T`, `J`, `t`, `S`, `g`, `b`, `1`, `I`, `s`]",
+        "created_at": 1.727099035e+09,
+        "updated_at": 1.727099035e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.727099479e+09,
+    "created_at": 1.727099479e+09
+}

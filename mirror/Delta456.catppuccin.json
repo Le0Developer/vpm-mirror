@@ -1,0 +1,23 @@
+{
+    "id": 475,
+    "name": "Delta456.catppuccin",
+    "description": "Catppuccin for V",
+    "url": "https://github.com/Delta456/catppuccin",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 28,
+    "author": {
+        "id": 28,
+        "github_id": 0,
+        "username": "Delta456",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "u9IDanCGKbvjLwomqu8dLV",
+        "created_at": 1.68346839e+09,
+        "updated_at": 1.68346839e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.697962577e+09,
+    "created_at": 1.697962577e+09
+}

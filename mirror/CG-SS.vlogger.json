@@ -1,0 +1,26 @@
+{
+    "id": 613,
+    "name": "CG-SS.vlogger",
+    "description": "A structured logger for Vlang with support for method chaining.\r\n\r\nDefaults to writing messages asynchronously using an internal channel.",
+    "documentation": "",
+    "url": "https://github.com/CG-SS/vlogger",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1776,
+    "author": {
+        "id": 1776,
+        "github_id": 0,
+        "username": "CG-SS",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`x`, `d`, `I`, `M`, `y`, `L`, `c`, `e`, `1`, `J`, `V`, `I`, `R`, `z`, `r`, `9`, `P`, `P`, `2`, `N`]",
+        "created_at": 1.744763878e+09,
+        "updated_at": 1.744763878e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.744764022e+09,
+    "created_at": 1.744764022e+09
+}

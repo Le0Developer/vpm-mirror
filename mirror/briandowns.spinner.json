@@ -1,0 +1,23 @@
+{
+    "id": 557,
+    "name": "briandowns.spinner",
+    "description": "spinner is a simple package to add a spinner / progress indicator to any terminal application.",
+    "url": "https://github.com/briandowns/v-spinner",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1318,
+    "author": {
+        "id": 1318,
+        "github_id": 0,
+        "username": "briandowns",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`e`, `W`, `G`, `x`, `h`, `m`, `J`, `j`, `x`, `E`, `Y`, `E`, `Q`, `y`, `U`, `f`, `S`, `5`, `e`, `G`]",
+        "created_at": 1.722218654e+09,
+        "updated_at": 1.722218654e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.722401141e+09,
+    "created_at": 1.722401141e+09
+}

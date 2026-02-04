@@ -1,0 +1,22 @@
+{
+    "id": 233,
+    "name": "thechampagne.audiodb",
+    "url": "https://github.com/thechampagne/audiodb-v",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 240,
+    "author": {
+        "id": 240,
+        "github_id": 0,
+        "username": "thechampagne",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`z`, `H`, `f`, `l`, `B`, `8`, `i`, `A`, `G`, `R`, `L`, `X`, `a`, `j`, `6`, `S`, `h`, `K`, `Q`, `E`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

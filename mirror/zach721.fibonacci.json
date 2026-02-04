@@ -1,0 +1,22 @@
+{
+    "id": 289,
+    "name": "zach721.fibonacci",
+    "url": "https://github.com/zach721/Fibonacci_V",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 296,
+    "author": {
+        "id": 296,
+        "github_id": 0,
+        "username": "zach721",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`e`, `G`, `r`, `S`, `H`, `Y`, `g`, `z`, `P`, `D`, `i`, `3`, `Z`, `S`, `U`, `2`, `X`, `l`, `W`, `A`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

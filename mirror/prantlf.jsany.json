@@ -1,0 +1,23 @@
+{
+    "id": 383,
+    "name": "prantlf.jsany",
+    "description": "Build and access JSON/YAML data using a dynamic sumtype instead of static types.",
+    "url": "https://github.com/prantlf/v-jsany/tree/master",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 579,
+    "author": {
+        "id": 579,
+        "github_id": 0,
+        "username": "prantlf",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`n`, `T`, `q`, `8`, `Y`, `j`, `B`, `W`, `g`, `S`, `7`, `8`, `p`, `S`, `W`, `o`, `w`, `u`, `H`, `R`]",
+        "created_at": 1.686032849e+09,
+        "updated_at": 1.686032849e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.68603357e+09,
+    "created_at": 1.68603357e+09
+}

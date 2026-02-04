@@ -1,0 +1,23 @@
+{
+    "id": 351,
+    "name": "edam.greadline",
+    "description": "A shim V module for the GNU readline library (with a simpler interface).",
+    "url": "https://github.com/edam/v-greadline",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 308,
+    "author": {
+        "id": 308,
+        "github_id": 0,
+        "username": "edam",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`A`, `i`, `t`, `o`, `r`, `B`, `I`, `K`, `A`, `b`, `H`, `n`, `N`, `U`, `4`, `6`, `8`, `u`, `X`, `R`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

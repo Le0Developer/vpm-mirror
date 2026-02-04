@@ -1,0 +1,23 @@
+{
+    "id": 519,
+    "name": "lemoncmd.mecab",
+    "description": "MeCab wrapper for V",
+    "url": "https://github.com/lemoncmd/mecab-v",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 347,
+    "author": {
+        "id": 347,
+        "github_id": 0,
+        "username": "lemoncmd",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`Y`, `z`, `w`, `p`, `z`, `Q`, `W`, `2`, `Q`, `7`, `e`, `E`, `Q`, `i`, `p`, `0`, `H`, `t`, `u`, `0`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.708867264e+09,
+    "created_at": 1.708867264e+09
+}

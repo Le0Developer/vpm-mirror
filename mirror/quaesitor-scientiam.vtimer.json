@@ -1,0 +1,26 @@
+{
+    "id": 690,
+    "name": "quaesitor-scientiam.vtimer",
+    "description": "A high-precision, cross-platform timer package for the V programming language with nanosecond accuracy.\r\n\r\nvtimer provides atomic and precise timing functionality for V applications. It uses platform-specific high-resolution timers (QueryPerformanceCounter on Windows, mach_absolute_time on macOS, and clock_gettime on Linux/Unix) to deliver accurate timing measurements across all platforms.",
+    "documentation": "",
+    "url": "https://github.com/quaesitor-scientiam/vtimer",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1637,
+    "author": {
+        "id": 1637,
+        "github_id": 0,
+        "username": "quaesitor-scientiam",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`F`, `I`, `t`, `M`, `B`, `L`, `B`, `W`, `s`, `a`, `h`, `q`, `W`, `D`, `i`, `s`, `n`, `A`, `I`, `4`]",
+        "created_at": 1.73591656e+09,
+        "updated_at": 1.73591656e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.768690774e+09,
+    "created_at": 1.768690774e+09
+}

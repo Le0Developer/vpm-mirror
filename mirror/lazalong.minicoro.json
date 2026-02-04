@@ -1,0 +1,22 @@
+{
+    "id": 256,
+    "name": "lazalong.minicoro",
+    "url": "https://github.com/lazalong/minicoro",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 263,
+    "author": {
+        "id": 263,
+        "github_id": 0,
+        "username": "lazalong",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "QS4bZGohwDrwJduRf0mQ",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

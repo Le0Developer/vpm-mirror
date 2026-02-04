@@ -1,0 +1,24 @@
+{
+    "id": 638,
+    "name": "fleximus.argon2",
+    "description": "Argon2 password hashing library (RFC 9106 compliant)",
+    "documentation": "",
+    "url": "https://github.com/fleximus/argon2",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 712,
+    "author": {
+        "id": 712,
+        "github_id": 0,
+        "username": "fleximus",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`N`, `d`, `X`, `x`, `f`, `M`, `x`, `I`, `Z`, `y`, `U`, `w`, `q`, `i`, `D`, `Z`, `F`, `S`, `l`, `M`]",
+        "created_at": 1.692314143e+09,
+        "updated_at": 1.692314143e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.752912068e+09,
+    "created_at": 1.752912068e+09
+}

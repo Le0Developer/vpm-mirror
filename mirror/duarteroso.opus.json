@@ -1,0 +1,22 @@
+{
+    "id": 346,
+    "name": "duarteroso.opus",
+    "url": "https://github.com/duarteroso/opus",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 50,
+    "author": {
+        "id": 50,
+        "github_id": 0,
+        "username": "duarteroso",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "jedTJMtSPorFuOfh594P",
+        "created_at": 1.68346839e+09,
+        "updated_at": 1.68346839e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

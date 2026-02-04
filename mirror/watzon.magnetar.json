@@ -1,0 +1,24 @@
+{
+    "id": 635,
+    "name": "watzon.magnetar",
+    "description": "A high-performance BitTorrent parsing and manipulation library written in V. Magnetar provides zero-dependency, memory-safe operations for working with torrent files, bencode data, and magnet links.",
+    "documentation": "",
+    "url": "https://github.com/watzon/magnetar",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 297,
+    "author": {
+        "id": 297,
+        "github_id": 0,
+        "username": "watzon",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "kwRDCxRYVkGEMOCqsIEf",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.752349127e+09,
+    "created_at": 1.752349127e+09
+}

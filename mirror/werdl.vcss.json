@@ -1,0 +1,23 @@
+{
+    "id": 480,
+    "name": "werdl.vcss",
+    "description": "vcss is a frontend to CSS, written and used in V. It allows you to have full control over your CSS code, with V and its host of features. Compiles to CSS.",
+    "url": "https://github.com/werdl/vcss",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 880,
+    "author": {
+        "id": 880,
+        "github_id": 0,
+        "username": "werdl",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`S`, `n`, `K`, `g`, `u`, `F`, `5`, `C`, `P`, `c`, `Z`, `4`, `5`, `o`, `w`, `3`, `x`, `K`, `j`, `Y`]",
+        "created_at": 1.696608484e+09,
+        "updated_at": 1.696608484e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.69874267e+09,
+    "created_at": 1.69874267e+09
+}

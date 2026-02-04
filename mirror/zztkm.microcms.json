@@ -1,0 +1,22 @@
+{
+    "id": 329,
+    "name": "zztkm.microcms",
+    "url": "https://github.com/zztkm/microcms-v-sdk",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 101,
+    "author": {
+        "id": 101,
+        "github_id": 0,
+        "username": "zztkm",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "ErTClvUGLwavRT8Pfg5g",
+        "created_at": 1.68346839e+09,
+        "updated_at": 1.68346839e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

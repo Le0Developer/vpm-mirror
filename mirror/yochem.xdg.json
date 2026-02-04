@@ -1,0 +1,22 @@
+{
+    "id": 361,
+    "name": "yochem.xdg",
+    "url": "https://github.com/yochem/xdg-v",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 368,
+    "author": {
+        "id": 368,
+        "github_id": 0,
+        "username": "yochem",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`z`, `r`, `y`, `Y`, `B`, `v`, `B`, `G`, `h`, `l`, `D`, `G`, `D`, `E`, `o`, `h`, `M`, `v`, `6`, `b`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

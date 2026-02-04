@@ -1,0 +1,24 @@
+{
+    "id": 654,
+    "name": "khalyomede.faker",
+    "description": "Generate fake values for your tests.",
+    "documentation": "",
+    "url": "https://github.com/khalyomede/faker",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 18,
+    "author": {
+        "id": 18,
+        "github_id": 0,
+        "username": "khalyomede",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "Oh61PgM6LOQXg65VsP6e",
+        "created_at": 1.68346839e+09,
+        "updated_at": 1.68346839e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.758749559e+09,
+    "created_at": 1.758749559e+09
+}

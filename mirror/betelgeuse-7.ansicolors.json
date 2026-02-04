@@ -1,0 +1,22 @@
+{
+    "id": 285,
+    "name": "betelgeuse-7.ansicolors",
+    "url": "https://github.com/betelgeuse-7/ansicolors",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 292,
+    "author": {
+        "id": 292,
+        "github_id": 0,
+        "username": "betelgeuse-7",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`x`, `g`, `D`, `u`, `P`, `c`, `b`, `a`, `3`, `q`, `5`, `j`, `N`, `r`, `9`, `L`, `X`, `V`, `2`, `P`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

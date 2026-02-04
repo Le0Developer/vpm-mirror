@@ -1,0 +1,23 @@
+{
+    "id": 466,
+    "name": "impopular-guy.vplotlib",
+    "description": "[WIP] 2D Plotting library for V",
+    "url": "https://github.com/impopular-guy/vplotlib",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 246,
+    "author": {
+        "id": 246,
+        "github_id": 0,
+        "username": "impopular-guy",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`D`, `v`, `P`, `y`, `A`, `n`, `K`, `r`, `j`, `m`, `9`, `Y`, `J`, `3`, `f`, `j`, `S`, `T`, `B`, `R`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.696571726e+09,
+    "created_at": 1.696571726e+09
+}

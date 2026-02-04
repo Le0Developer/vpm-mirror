@@ -1,0 +1,22 @@
+{
+    "id": 293,
+    "name": "Corallus-Caninus.JoshuaTree",
+    "url": "https://github.com/Corallus-Caninus/JoshuaTrees",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 300,
+    "author": {
+        "id": 300,
+        "github_id": 0,
+        "username": "Corallus-Caninus",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`T`, `1`, `T`, `e`, `l`, `D`, `v`, `b`, `1`, `5`, `r`, `J`, `5`, `6`, `7`, `Y`, `z`, `A`, `I`, `U`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

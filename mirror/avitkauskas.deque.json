@@ -1,0 +1,23 @@
+{
+    "id": 568,
+    "name": "avitkauskas.deque",
+    "description": "This module implements efficient deque as a circular automatically growing & shrinking buffer.",
+    "url": "https://github.com/avitkauskas/deque-v",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1360,
+    "author": {
+        "id": 1360,
+        "github_id": 0,
+        "username": "avitkauskas",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`R`, `D`, `V`, `r`, `I`, `I`, `b`, `C`, `K`, `5`, `j`, `b`, `T`, `6`, `a`, `o`, `g`, `J`, `B`, `2`]",
+        "created_at": 1.725486032e+09,
+        "updated_at": 1.725486032e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.726160171e+09,
+    "created_at": 1.726160171e+09
+}

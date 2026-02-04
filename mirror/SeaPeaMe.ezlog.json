@@ -1,0 +1,26 @@
+{
+    "id": 651,
+    "name": "SeaPeaMe.ezlog",
+    "description": "A module for the V language that makes it much easier to write formatted text to the console (with colors) and log events with indentation/headings to the console and to files.",
+    "documentation": "",
+    "url": "https://github.com/SeaPeaMe/ezlog",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1909,
+    "author": {
+        "id": 1909,
+        "github_id": 0,
+        "username": "SeaPeaMe",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`o`, `8`, `o`, `b`, `H`, `j`, `a`, `w`, `S`, `y`, `z`, `B`, `8`, `n`, `U`, `i`, `Y`, `j`, `f`, `3`]",
+        "created_at": 1.758545225e+09,
+        "updated_at": 1.758545225e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.758545263e+09,
+    "created_at": 1.758545263e+09
+}

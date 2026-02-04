@@ -1,0 +1,23 @@
+{
+    "id": 532,
+    "name": "Sydiepus.microgradv",
+    "description": " A tiny scalar valued Autograd engine, An implementation of micrograd in V ",
+    "url": "https://github.com/Sydiepus/microgradv",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1227,
+    "author": {
+        "id": 1227,
+        "github_id": 0,
+        "username": "Sydiepus",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`p`, `s`, `g`, `c`, `6`, `w`, `O`, `O`, `S`, `i`, `y`, `u`, `D`, `n`, `e`, `V`, `I`, `v`, `g`, `w`]",
+        "created_at": 1.713371407e+09,
+        "updated_at": 1.713371407e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.713371443e+09,
+    "created_at": 1.713371443e+09
+}

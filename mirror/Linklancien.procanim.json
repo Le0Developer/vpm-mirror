@@ -1,0 +1,26 @@
+{
+    "id": 689,
+    "name": "Linklancien.procanim",
+    "description": "A V module to handle procedural animation",
+    "documentation": "",
+    "url": "https://github.com/Linklancien/Procedural-animation",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1810,
+    "author": {
+        "id": 1810,
+        "github_id": 0,
+        "username": "Linklancien",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`3`, `O`, `Z`, `A`, `x`, `j`, `X`, `L`, `g`, `y`, `0`, `l`, `U`, `5`, `f`, `3`, `I`, `g`, `V`, `Q`]",
+        "created_at": 1.747947175e+09,
+        "updated_at": 1.747947175e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.768606317e+09,
+    "created_at": 1.768606317e+09
+}

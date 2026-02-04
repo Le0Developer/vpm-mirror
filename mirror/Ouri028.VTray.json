@@ -1,0 +1,23 @@
+{
+    "id": 455,
+    "name": "Ouri028.VTray",
+    "description": "VTray is a cross-platform V library to place an icon and menu in the notification area.",
+    "url": "https://github.com/Ouri028/VTray",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 266,
+    "author": {
+        "id": 266,
+        "github_id": 0,
+        "username": "Ouri028",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`t`, `F`, `D`, `A`, `1`, `2`, `P`, `f`, `2`, `v`, `O`, `K`, `o`, `X`, `b`, `U`, `1`, `K`, `2`, `3`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.695684255e+09,
+    "created_at": 1.695684255e+09
+}

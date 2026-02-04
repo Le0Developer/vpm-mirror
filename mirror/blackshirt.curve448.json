@@ -1,0 +1,24 @@
+{
+    "id": 644,
+    "name": "blackshirt.curve448",
+    "description": "Curve448 is a high-security elliptic curve cryptography (ECC) curve, designed for use with the Elliptic Curve Diffie-Hellman (ECDH) key exchange scheme. It offers a security level equivalent to 224 bits, making it suitable for applications requiring strong encryption and secure communication. ",
+    "documentation": "",
+    "url": "https://github.com/blackshirt/curve448",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 48,
+    "author": {
+        "id": 48,
+        "github_id": 0,
+        "username": "blackshirt",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "2UweHlQMpJMqDZ7Hu1as",
+        "created_at": 1.68346839e+09,
+        "updated_at": 1.68346839e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.754451399e+09,
+    "created_at": 1.754451399e+09
+}

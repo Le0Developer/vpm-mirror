@@ -1,0 +1,23 @@
+{
+    "id": 564,
+    "name": "sherbrow.cliauto",
+    "description": " Auto completion for vlang cli commands",
+    "url": "https://github.com/sherbrow/cliauto",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1334,
+    "author": {
+        "id": 1334,
+        "github_id": 0,
+        "username": "sherbrow",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`n`, `r`, `U`, `5`, `v`, `0`, `l`, `y`, `L`, `Q`, `o`, `l`, `S`, `z`, `y`, `p`, `m`, `r`, `O`, `r`]",
+        "created_at": 1.723816852e+09,
+        "updated_at": 1.723816852e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.725810905e+09,
+    "created_at": 1.725810905e+09
+}

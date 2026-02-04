@@ -1,0 +1,23 @@
+{
+    "id": 569,
+    "name": "MukelaniGumaMashoba.getAge",
+    "description": "WELCOME TO GET-AGE-NPM Package\r\n\r\nnote(it can be used in JavaScript for now)\r\n\r\nMost Wanted Package Dont Be Afraid to test it I know it my first npm package but hey trust me you will see.....\r\n\r\nhow to run it\r\n\r\n    npm i get_age_npm\r\nthe boom it there and make your life easy\r\n\r\nA npm package used to get gender and also age of a user\r\n\r\nHow To Use It\r\n\r\nnpm i get_age_npm\r\nimport getAgeAndGender from 'get_age_npm';\r\nUse it Responsible",
+    "url": "https://github.com/MukelaniGumaMashoba/get_age_npm",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1370,
+    "author": {
+        "id": 1370,
+        "github_id": 0,
+        "username": "MukelaniGumaMashoba",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`v`, `d`, `N`, `1`, `E`, `5`, `L`, `u`, `7`, `T`, `z`, `j`, `Z`, `g`, `Q`, `1`, `z`, `l`, `h`, `e`]",
+        "created_at": 1.726254237e+09,
+        "updated_at": 1.726254237e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.7262546e+09,
+    "created_at": 1.7262546e+09
+}

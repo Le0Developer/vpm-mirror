@@ -1,0 +1,23 @@
+{
+    "id": 548,
+    "name": "westtrade.arangodb",
+    "description": "ArrangoDB driver (WIP)",
+    "url": "https://github.com/westtrade/arangodb",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 653,
+    "author": {
+        "id": 653,
+        "github_id": 0,
+        "username": "westtrade",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`X`, `T`, `y`, `H`, `d`, `E`, `g`, `u`, `V`, `n`, `N`, `C`, `c`, `W`, `T`, `4`, `t`, `P`, `A`, `O`]",
+        "created_at": 1.68896503e+09,
+        "updated_at": 1.68896503e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.718555714e+09,
+    "created_at": 1.718555714e+09
+}

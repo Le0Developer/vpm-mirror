@@ -1,0 +1,23 @@
+{
+    "id": 513,
+    "name": "Ddiidev.brasilapi",
+    "description": "Client to BrasilAPI in Vlang(V)",
+    "url": "https://github.com/Ddiidev/brasilapi-v",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1113,
+    "author": {
+        "id": 1113,
+        "github_id": 0,
+        "username": "Ddiidev",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`7`, `e`, `1`, `c`, `A`, `D`, `v`, `F`, `f`, `s`, `C`, `b`, `G`, `0`, `j`, `f`, `q`, `z`, `A`, `u`]",
+        "created_at": 1.706671922e+09,
+        "updated_at": 1.706671922e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.706673071e+09,
+    "created_at": 1.706673071e+09
+}

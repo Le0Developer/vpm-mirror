@@ -1,0 +1,24 @@
+{
+    "id": 611,
+    "name": "einar-hjortdal.firebird",
+    "description": "V-native client for the Firebird SQL relational database management system",
+    "documentation": "",
+    "url": "https://github.com/einar-hjortdal/firebird",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1378,
+    "author": {
+        "id": 1378,
+        "github_id": 0,
+        "username": "einar-hjortdal",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`6`, `7`, `8`, `Z`, `i`, `E`, `i`, `P`, `g`, `Y`, `V`, `A`, `i`, `L`, `f`, `T`, `6`, `i`, `G`, `c`]",
+        "created_at": 1.726651936e+09,
+        "updated_at": 1.726651936e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.74421574e+09,
+    "created_at": 1.74421574e+09
+}

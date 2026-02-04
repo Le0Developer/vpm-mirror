@@ -1,0 +1,23 @@
+{
+    "id": 420,
+    "name": "topcheese.VGOAP",
+    "description": "This is a simple implementation of a Goal-Oriented Action Planning (GOAP) library in the V programming language. This library provides basic data structures and algorithms for representing and reasoning about goals and actions in a planning problem.",
+    "url": "https://github.com/topcheese/vgoap",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 691,
+    "author": {
+        "id": 691,
+        "github_id": 0,
+        "username": "topcheese",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`H`, `i`, `D`, `s`, `I`, `R`, `o`, `p`, `F`, `0`, `i`, `y`, `Y`, `Z`, `w`, `v`, `p`, `3`, `h`, `P`]",
+        "created_at": 1.691384967e+09,
+        "updated_at": 1.691384967e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.691390371e+09,
+    "created_at": 1.691390371e+09
+}

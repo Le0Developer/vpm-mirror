@@ -1,0 +1,23 @@
+{
+    "id": 403,
+    "name": "Infinixius.sysinfo",
+    "description": "System information module for V ",
+    "url": "https://github.com/Infinixius/sysinfo",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 632,
+    "author": {
+        "id": 632,
+        "github_id": 0,
+        "username": "Infinixius",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`E`, `r`, `j`, `v`, `O`, `j`, `4`, `F`, `W`, `N`, `a`, `q`, `d`, `T`, `z`, `s`, `s`, `R`, `p`, `U`]",
+        "created_at": 1.687985385e+09,
+        "updated_at": 1.687985385e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.687985493e+09,
+    "created_at": 1.687985493e+09
+}

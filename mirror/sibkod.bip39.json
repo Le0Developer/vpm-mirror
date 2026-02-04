@@ -1,0 +1,26 @@
+{
+    "id": 695,
+    "name": "sibkod.bip39",
+    "description": " Bip39 vlang implementation ",
+    "documentation": "",
+    "url": "https://github.com/sibkod/bip39",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1963,
+    "author": {
+        "id": 1963,
+        "github_id": 0,
+        "username": "sibkod",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`1`, `x`, `x`, `T`, `K`, `x`, `O`, `d`, `n`, `B`, `V`, `L`, `O`, `5`, `C`, `6`, `x`, `M`, `U`, `w`]",
+        "created_at": 1.761634612e+09,
+        "updated_at": 1.761634612e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.770191227e+09,
+    "created_at": 1.770191227e+09
+}

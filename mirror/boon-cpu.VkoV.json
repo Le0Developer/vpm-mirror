@@ -1,0 +1,22 @@
+{
+    "id": 298,
+    "name": "boon-cpu.VkoV",
+    "url": "https://github.com/boon-cpu/VkoV",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 305,
+    "author": {
+        "id": 305,
+        "github_id": 0,
+        "username": "boon-cpu",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`T`, `e`, `I`, `R`, `B`, `c`, `L`, `m`, `V`, `c`, `r`, `I`, `Y`, `R`, `X`, `g`, `C`, `K`, `C`, `z`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

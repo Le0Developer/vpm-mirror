@@ -1,0 +1,23 @@
+{
+    "id": 382,
+    "name": "robvanmieghem.vdecimal",
+    "description": "Arbitrary-precision fixed-point decimal numbers",
+    "url": "https://github.com/robvanmieghem/vdecimal",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 571,
+    "author": {
+        "id": 571,
+        "github_id": 0,
+        "username": "robvanmieghem",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`n`, `C`, `3`, `b`, `g`, `t`, `F`, `R`, `5`, `1`, `z`, `c`, `3`, `4`, `9`, `Y`, `B`, `G`, `q`, `q`]",
+        "created_at": 1.685964736e+09,
+        "updated_at": 1.685964736e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.685972433e+09,
+    "created_at": 1.685972433e+09
+}

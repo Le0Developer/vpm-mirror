@@ -1,0 +1,23 @@
+{
+    "id": 538,
+    "name": "Brawdunoir.prompts",
+    "description": "Beautiful interactive prompts for V",
+    "url": "https://github.com/Brawdunoir/prompts",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1247,
+    "author": {
+        "id": 1247,
+        "github_id": 0,
+        "username": "Brawdunoir",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`S`, `k`, `v`, `C`, `q`, `4`, `t`, `U`, `2`, `x`, `4`, `v`, `z`, `W`, `C`, `g`, `O`, `i`, `1`, `L`]",
+        "created_at": 1.715543355e+09,
+        "updated_at": 1.715543355e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.715543407e+09,
+    "created_at": 1.715543407e+09
+}

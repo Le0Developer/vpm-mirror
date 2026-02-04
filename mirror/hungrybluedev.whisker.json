@@ -1,0 +1,23 @@
+{
+    "id": 479,
+    "name": "hungrybluedev.whisker",
+    "description": "whisker is inspired by Mustache but is more stable, robust and predictable. It is a fast template engine for V with a simple syntax.",
+    "url": "https://github.com/hungrybluedev/whisker",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 925,
+    "author": {
+        "id": 925,
+        "github_id": 0,
+        "username": "hungrybluedev",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`y`, `w`, `e`, `D`, `8`, `B`, `a`, `d`, `C`, `S`, `u`, `P`, `4`, `P`, `A`, `O`, `Q`, `l`, `v`, `0`]",
+        "created_at": 1.698728594e+09,
+        "updated_at": 1.698728594e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.698729408e+09,
+    "created_at": 1.698729408e+09
+}

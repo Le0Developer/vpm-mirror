@@ -1,0 +1,23 @@
+{
+    "id": 541,
+    "name": "Saverio976.youtubedl",
+    "description": "Download audio/video from web site url",
+    "url": "https://github.com/Saverio976/youtubedl",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1231,
+    "author": {
+        "id": 1231,
+        "github_id": 0,
+        "username": "Saverio976",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`8`, `R`, `F`, `P`, `J`, `A`, `6`, `K`, `l`, `x`, `l`, `r`, `O`, `f`, `G`, `3`, `2`, `t`, `t`, `a`]",
+        "created_at": 1.713856968e+09,
+        "updated_at": 1.713856968e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.716029029e+09,
+    "created_at": 1.716029029e+09
+}

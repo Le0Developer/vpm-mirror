@@ -1,0 +1,26 @@
+{
+    "id": 593,
+    "name": "gechandesu.licenseid",
+    "description": "Query the SPDX licenses information",
+    "documentation": "",
+    "url": "https://github.com/gechandesu/licenseid",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1619,
+    "author": {
+        "id": 1619,
+        "github_id": 0,
+        "username": "gechandesu",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`6`, `1`, `q`, `C`, `r`, `W`, `9`, `c`, `o`, `J`, `4`, `H`, `E`, `j`, `A`, `a`, `4`, `c`, `z`, `8`]",
+        "created_at": 1.735017441e+09,
+        "updated_at": 1.735017441e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.737531194e+09,
+    "created_at": 1.737531194e+09
+}

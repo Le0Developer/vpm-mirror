@@ -1,0 +1,23 @@
+{
+    "id": 494,
+    "name": "robinvandernoord.dir",
+    "description": "Python's dir() for V",
+    "url": "https://github.com/robinvandernoord/v-dir",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1025,
+    "author": {
+        "id": 1025,
+        "github_id": 0,
+        "username": "robinvandernoord",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`N`, `p`, `Q`, `8`, `m`, `g`, `b`, `I`, `3`, `q`, `z`, `1`, `q`, `R`, `6`, `n`, `N`, `H`, `4`, `C`]",
+        "created_at": 1.702635051e+09,
+        "updated_at": 1.702635051e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.702635255e+09,
+    "created_at": 1.702635255e+09
+}

@@ -1,0 +1,23 @@
+{
+    "id": 520,
+    "name": "odiroot.clap",
+    "description": " Low-level wrapper for CLAP plugin API in V ",
+    "url": "https://github.com/odiroot/clap-lib",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1136,
+    "author": {
+        "id": 1136,
+        "github_id": 0,
+        "username": "odiroot",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`U`, `T`, `k`, `p`, `Z`, `Q`, `A`, `t`, `2`, `o`, `t`, `N`, `f`, `y`, `q`, `b`, `Q`, `D`, `I`, `J`]",
+        "created_at": 1.708034491e+09,
+        "updated_at": 1.708034491e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.709158254e+09,
+    "created_at": 1.709158254e+09
+}

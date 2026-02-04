@@ -1,0 +1,23 @@
+{
+    "id": 431,
+    "name": "vanillaiice.vbinance",
+    "description": "Binance Connector V ",
+    "url": "https://github.com/vanillaiice/vbinance",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 724,
+    "author": {
+        "id": 724,
+        "github_id": 0,
+        "username": "vanillaiice",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`r`, `Z`, `V`, `p`, `r`, `E`, `p`, `e`, `m`, `V`, `8`, `Y`, `g`, `z`, `s`, `f`, `q`, `X`, `L`, `F`]",
+        "created_at": 1.692339958e+09,
+        "updated_at": 1.692339958e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.692340026e+09,
+    "created_at": 1.692340026e+09
+}

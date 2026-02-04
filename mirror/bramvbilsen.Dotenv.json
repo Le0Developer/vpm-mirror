@@ -1,0 +1,23 @@
+{
+    "id": 528,
+    "name": "bramvbilsen.Dotenv",
+    "description": "Dotenv V is a package to parse environment files. It support reading in multiple environment files which are added to the process' environment variables upon load.",
+    "url": "https://github.com/bramvbilsen/Dotenv-V",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1208,
+    "author": {
+        "id": 1208,
+        "github_id": 0,
+        "username": "bramvbilsen",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`F`, `w`, `D`, `l`, `8`, `L`, `h`, `q`, `V`, `T`, `X`, `4`, `F`, `n`, `M`, `u`, `p`, `D`, `M`, `q`]",
+        "created_at": 1.710882433e+09,
+        "updated_at": 1.710882433e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.711051365e+09,
+    "created_at": 1.711051365e+09
+}

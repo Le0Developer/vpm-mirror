@@ -1,0 +1,23 @@
+{
+    "id": 473,
+    "name": "gilmartaj.props",
+    "description": "A simple module to simplify working with \".properties\" files.",
+    "url": "https://github.com/gilmartaj/props",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 907,
+    "author": {
+        "id": 907,
+        "github_id": 0,
+        "username": "gilmartaj",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`O`, `L`, `f`, `I`, `d`, `9`, `G`, `g`, `K`, `i`, `h`, `V`, `l`, `J`, `Y`, `U`, `i`, `H`, `n`, `N`]",
+        "created_at": 1.697694169e+09,
+        "updated_at": 1.697694169e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.697694286e+09,
+    "created_at": 1.697694286e+09
+}

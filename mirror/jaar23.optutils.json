@@ -1,0 +1,23 @@
+{
+    "id": 523,
+    "name": "jaar23.optutils",
+    "description": "optutils is a utility module to work with v's option type, it is inspired by Rust unwrap().",
+    "url": "https://github.com/jaar23/optutils",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1192,
+    "author": {
+        "id": 1192,
+        "github_id": 0,
+        "username": "jaar23",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`A`, `F`, `x`, `H`, `o`, `w`, `k`, `V`, `P`, `X`, `p`, `X`, `U`, `D`, `w`, `g`, `B`, `0`, `y`, `b`]",
+        "created_at": 1.710520899e+09,
+        "updated_at": 1.710520899e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.71052096e+09,
+    "created_at": 1.71052096e+09
+}

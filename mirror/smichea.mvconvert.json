@@ -1,0 +1,23 @@
+{
+    "id": 486,
+    "name": "smichea.mvconvert",
+    "description": "Meveo to Vlang module converter.",
+    "url": "https://github.com/smichea/mvconvert",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 984,
+    "author": {
+        "id": 984,
+        "github_id": 0,
+        "username": "smichea",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`0`, `x`, `p`, `h`, `u`, `u`, `m`, `x`, `T`, `N`, `z`, `3`, `N`, `F`, `l`, `N`, `p`, `Z`, `Y`, `V`]",
+        "created_at": 1.700714186e+09,
+        "updated_at": 1.700714186e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.70071496e+09,
+    "created_at": 1.70071496e+09
+}

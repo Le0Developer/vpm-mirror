@@ -1,0 +1,23 @@
+{
+    "id": 483,
+    "name": "werdl.color",
+    "description": "A V library for working with colors!\r\nSupports: CIELAB, LCH, sRGB, AdobeRGB, CMYK, Hex (with optional alpha), and HSL",
+    "url": "https://github.com/werdl/color",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 880,
+    "author": {
+        "id": 880,
+        "github_id": 0,
+        "username": "werdl",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`S`, `n`, `K`, `g`, `u`, `F`, `5`, `C`, `P`, `c`, `Z`, `4`, `5`, `o`, `w`, `3`, `x`, `K`, `j`, `Y`]",
+        "created_at": 1.696608484e+09,
+        "updated_at": 1.696608484e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.699294763e+09,
+    "created_at": 1.699294763e+09
+}

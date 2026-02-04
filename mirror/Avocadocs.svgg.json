@@ -1,0 +1,24 @@
+{
+    "id": 628,
+    "name": "Avocadocs.svgg",
+    "description": "Utility lib to load and resterize svg file into gg.Image object",
+    "documentation": "",
+    "url": "https://github.com/Avocadocs/svgg",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1343,
+    "author": {
+        "id": 1343,
+        "github_id": 0,
+        "username": "Avocadocs",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`W`, `Z`, `4`, `a`, `H`, `0`, `f`, `x`, `q`, `w`, `o`, `W`, `L`, `w`, `j`, `W`, `T`, `x`, `e`, `F`]",
+        "created_at": 1.724536292e+09,
+        "updated_at": 1.724536292e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.75152186e+09,
+    "created_at": 1.75152186e+09
+}

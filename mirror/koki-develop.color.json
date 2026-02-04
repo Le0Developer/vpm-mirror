@@ -1,0 +1,24 @@
+{
+    "id": 588,
+    "name": "koki-develop.color",
+    "description": "A simple color library for V.",
+    "documentation": "",
+    "url": "https://github.com/koki-develop/v-color",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 859,
+    "author": {
+        "id": 859,
+        "github_id": 0,
+        "username": "koki-develop",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`m`, `M`, `0`, `c`, `n`, `h`, `O`, `6`, `d`, `x`, `t`, `k`, `b`, `i`, `R`, `l`, `0`, `9`, `y`, `Z`]",
+        "created_at": 1.696196817e+09,
+        "updated_at": 1.696196817e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.736504713e+09,
+    "created_at": 1.736504713e+09
+}

@@ -1,0 +1,23 @@
+{
+    "id": 457,
+    "name": "tauraamui.readtime",
+    "description": "A library to provide estimated time will spend reading text documents.",
+    "url": "https://github.com/tauraamui/read_time",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 825,
+    "author": {
+        "id": 825,
+        "github_id": 0,
+        "username": "tauraamui",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`G`, `v`, `B`, `1`, `c`, `b`, `T`, `u`, `I`, `d`, `T`, `T`, `k`, `J`, `I`, `c`, `C`, `Z`, `q`, `H`]",
+        "created_at": 1.695919094e+09,
+        "updated_at": 1.695919094e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.695919188e+09,
+    "created_at": 1.695919188e+09
+}

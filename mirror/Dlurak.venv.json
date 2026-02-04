@@ -1,0 +1,23 @@
+{
+    "id": 509,
+    "name": "Dlurak.venv",
+    "description": "A simple `.env` parser",
+    "url": "https://github.com/Dlurak/venv",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1097,
+    "author": {
+        "id": 1097,
+        "github_id": 0,
+        "username": "Dlurak",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`2`, `4`, `U`, `2`, `U`, `i`, `A`, `B`, `G`, `H`, `e`, `G`, `s`, `d`, `R`, `9`, `M`, `Q`, `N`, `5`]",
+        "created_at": 1.705837989e+09,
+        "updated_at": 1.705837989e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.705839234e+09,
+    "created_at": 1.705839234e+09
+}

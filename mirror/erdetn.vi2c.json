@@ -1,0 +1,23 @@
+{
+    "id": 556,
+    "name": "erdetn.vi2c",
+    "description": "A tiny I2C library written in V.",
+    "url": "https://github.com/erdetn/vi2c",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1320,
+    "author": {
+        "id": 1320,
+        "github_id": 0,
+        "username": "erdetn",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`8`, `t`, `n`, `o`, `d`, `J`, `i`, `u`, `d`, `H`, `H`, `0`, `x`, `e`, `Y`, `Q`, `q`, `f`, `s`, `S`]",
+        "created_at": 1.72227871e+09,
+        "updated_at": 1.72227871e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.722283005e+09,
+    "created_at": 1.722283005e+09
+}

@@ -1,0 +1,26 @@
+{
+    "id": 604,
+    "name": "tankf33der.utf8io",
+    "description": "UTF8 API for reading from file.\r\n",
+    "documentation": "",
+    "url": "https://github.com/tankf33der/vlang-utf8io",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1705,
+    "author": {
+        "id": 1705,
+        "github_id": 0,
+        "username": "tankf33der",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`f`, `T`, `L`, `q`, `s`, `v`, `T`, `1`, `g`, `R`, `O`, `N`, `r`, `P`, `P`, `k`, `t`, `j`, `A`, `L`]",
+        "created_at": 1.739702516e+09,
+        "updated_at": 1.739702516e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.741551306e+09,
+    "created_at": 1.741551306e+09
+}

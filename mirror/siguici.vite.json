@@ -1,0 +1,24 @@
+{
+    "id": 605,
+    "name": "siguici.vite",
+    "description": "Vite.v is a V module that integrates Veb applications with Vite.js, enabling seamless frontend asset handling with optimized performance and simple configuration.",
+    "documentation": "",
+    "url": "https://github.com/siguici/vite.v",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1050,
+    "author": {
+        "id": 1050,
+        "github_id": 0,
+        "username": "siguici",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`t`, `9`, `Z`, `b`, `q`, `c`, `k`, `W`, `e`, `I`, `W`, `S`, `Z`, `Y`, `B`, `c`, `O`, `y`, `9`, `g`]",
+        "created_at": 1.703612072e+09,
+        "updated_at": 1.703612072e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.741620904e+09,
+    "created_at": 1.741620904e+09
+}

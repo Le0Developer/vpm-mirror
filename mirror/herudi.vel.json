@@ -1,0 +1,23 @@
+{
+    "id": 517,
+    "name": "herudi.vel",
+    "description": "Declarative html-element in V.",
+    "url": "https://github.com/herudi/vel",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1138,
+    "author": {
+        "id": 1138,
+        "github_id": 0,
+        "username": "herudi",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`z`, `J`, `Q`, `1`, `g`, `R`, `8`, `X`, `S`, `X`, `E`, `F`, `7`, `i`, `8`, `m`, `3`, `4`, `H`, `s`]",
+        "created_at": 1.708075364e+09,
+        "updated_at": 1.708075364e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.708075473e+09,
+    "created_at": 1.708075473e+09
+}

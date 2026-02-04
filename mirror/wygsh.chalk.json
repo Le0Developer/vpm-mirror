@@ -1,0 +1,23 @@
+{
+    "id": 499,
+    "name": "wygsh.chalk",
+    "description": "Chalk clone for V.",
+    "url": "https://github.com/wygsh/chalk",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 587,
+    "author": {
+        "id": 587,
+        "github_id": 0,
+        "username": "wygsh",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`C`, `7`, `M`, `C`, `m`, `F`, `K`, `2`, `a`, `Z`, `2`, `8`, `h`, `X`, `H`, `o`, `G`, `0`, `q`, `U`]",
+        "created_at": 1.686091013e+09,
+        "updated_at": 1.686091013e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.703423574e+09,
+    "created_at": 1.703423574e+09
+}

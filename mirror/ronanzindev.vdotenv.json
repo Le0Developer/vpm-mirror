@@ -1,0 +1,26 @@
+{
+    "id": 592,
+    "name": "ronanzindev.vdotenv",
+    "description": "Read env vars from files",
+    "documentation": "",
+    "url": "https://github.com/ronanzindev/vdotenv",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1678,
+    "author": {
+        "id": 1678,
+        "github_id": 0,
+        "username": "ronanzindev",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`4`, `O`, `x`, `U`, `W`, `2`, `V`, `I`, `N`, `n`, `X`, `E`, `z`, `D`, `c`, `E`, `B`, `G`, `w`, `B`]",
+        "created_at": 1.737310345e+09,
+        "updated_at": 1.737310345e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.737310351e+09,
+    "created_at": 1.737310351e+09
+}

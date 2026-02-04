@@ -1,0 +1,22 @@
+{
+    "id": 317,
+    "name": "AceLikesGhosts.veddit",
+    "url": "https://github.com/AceLikesGhosts/veddit",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 324,
+    "author": {
+        "id": 324,
+        "github_id": 0,
+        "username": "AceLikesGhosts",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`j`, `s`, `8`, `Z`, `5`, `l`, `E`, `a`, `3`, `F`, `N`, `o`, `E`, `v`, `4`, `W`, `l`, `0`, `S`, `o`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

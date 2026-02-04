@@ -1,0 +1,23 @@
+{
+    "id": 502,
+    "name": "siguici.vut",
+    "description": "VUT is a lightweight and versatile framework designed for rule validation and unit testing in Vlang. Simplify the process of ensuring code correctness, validating data, and conducting unit tests with this intuitive and efficient tool.",
+    "url": "https://github.com/siguici/vut",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1050,
+    "author": {
+        "id": 1050,
+        "github_id": 0,
+        "username": "siguici",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`t`, `9`, `Z`, `b`, `q`, `c`, `k`, `W`, `e`, `I`, `W`, `S`, `Z`, `Y`, `B`, `c`, `O`, `y`, `9`, `g`]",
+        "created_at": 1.703612072e+09,
+        "updated_at": 1.703612072e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.703627175e+09,
+    "created_at": 1.703627175e+09
+}

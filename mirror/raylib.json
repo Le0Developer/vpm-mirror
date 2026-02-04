@@ -1,0 +1,24 @@
+{
+    "id": 583,
+    "name": "raylib",
+    "description": "Official up-to-date, auto-generated Raylib (and Raymath) bindings for V\r\n\r\nCurrent Raylib Target: v5.5",
+    "documentation": "",
+    "url": "https://github.com/vlang/raylib",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 67,
+    "author": {
+        "id": 67,
+        "github_id": 0,
+        "username": "medvednikov",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "96CIpfz0rAyE7cwFovjS",
+        "created_at": 1.68346839e+09,
+        "updated_at": 1.68346839e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.736296813e+09,
+    "created_at": 1.736296813e+09
+}

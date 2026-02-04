@@ -1,0 +1,23 @@
+{
+    "id": 367,
+    "name": "ArtemkaKun.textproc",
+    "description": "V text processing library, that contains common tools to manipulate text data",
+    "url": "https://github.com/ArtemkaKun/text-processing",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 374,
+    "author": {
+        "id": 374,
+        "github_id": 0,
+        "username": "ArtemkaKun",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`A`, `Y`, `H`, `y`, `z`, `Q`, `n`, `a`, `p`, `8`, `G`, `v`, `F`, `I`, `C`, `i`, `1`, `A`, `p`, `5`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

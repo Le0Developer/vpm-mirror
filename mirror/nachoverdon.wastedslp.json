@@ -1,0 +1,22 @@
+{
+    "id": 264,
+    "name": "nachoverdon.wastedslp",
+    "url": "https://github.com/nachoverdon/wasted_on_slippi",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 271,
+    "author": {
+        "id": 271,
+        "github_id": 0,
+        "username": "nachoverdon",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`L`, `C`, `B`, `l`, `S`, `k`, `l`, `J`, `6`, `V`, `I`, `7`, `O`, `8`, `X`, `D`, `W`, `r`, `f`, `3`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

@@ -1,0 +1,22 @@
+{
+    "id": 245,
+    "name": "phoreverpheebs.m3u8",
+    "url": "https://github.com/phoreverpheebs/m3u8v",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 252,
+    "author": {
+        "id": 252,
+        "github_id": 0,
+        "username": "phoreverpheebs",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`I`, `a`, `0`, `Y`, `O`, `c`, `p`, `o`, `A`, `4`, `J`, `N`, `z`, `9`, `Z`, `O`, `I`, `1`, `8`, `Q`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

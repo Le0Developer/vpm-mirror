@@ -1,0 +1,23 @@
+{
+    "id": 468,
+    "name": "xiusin.cache",
+    "description": "Concurrency-safe v caching library with expiration capabilities.",
+    "url": "https://github.com/xiusin/cache",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 328,
+    "author": {
+        "id": 328,
+        "github_id": 0,
+        "username": "xiusin",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`K`, `b`, `S`, `y`, `K`, `Y`, `u`, `z`, `i`, `x`, `f`, `K`, `n`, `H`, `T`, `m`, `V`, `U`, `g`, `R`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.697014431e+09,
+    "created_at": 1.697014431e+09
+}

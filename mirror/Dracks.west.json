@@ -1,0 +1,23 @@
+{
+    "id": 433,
+    "name": "Dracks.west",
+    "description": "West is a wrapper of vweb dessigned to emulate the way nestjs works",
+    "url": "https://github.com/Dracks/West",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 375,
+    "author": {
+        "id": 375,
+        "github_id": 0,
+        "username": "Dracks",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`D`, `v`, `v`, `Z`, `N`, `j`, `r`, `w`, `G`, `6`, `R`, `y`, `r`, `Y`, `V`, `T`, `Z`, `0`, `e`, `t`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.692428482e+09,
+    "created_at": 1.692428482e+09
+}

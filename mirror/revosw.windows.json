@@ -1,0 +1,26 @@
+{
+    "id": 694,
+    "name": "revosw.windows",
+    "description": "Windows API bindings",
+    "documentation": "",
+    "url": "https://github.com/revosw/windows",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2048,
+    "author": {
+        "id": 2048,
+        "github_id": 0,
+        "username": "revosw",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`B`, `W`, `c`, `Z`, `4`, `p`, `F`, `o`, `F`, `p`, `Q`, `w`, `5`, `H`, `J`, `A`, `F`, `q`, `x`, `F`]",
+        "created_at": 1.769115358e+09,
+        "updated_at": 1.769115358e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.770177024e+09,
+    "created_at": 1.770177024e+09
+}

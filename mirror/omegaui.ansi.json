@@ -1,0 +1,22 @@
+{
+    "id": 365,
+    "name": "omegaui.ansi",
+    "url": "https://github.com/omegaui/ansi",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 372,
+    "author": {
+        "id": 372,
+        "github_id": 0,
+        "username": "omegaui",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`D`, `5`, `p`, `k`, `u`, `a`, `Y`, `D`, `8`, `k`, `l`, `X`, `C`, `F`, `4`, `k`, `v`, `K`, `O`, `A`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

@@ -1,0 +1,26 @@
+{
+    "id": 627,
+    "name": "rosshadden.gd",
+    "description": "V bindings for the Godot game engine.",
+    "documentation": "",
+    "url": "https://github.com/rosshadden/gdext-v",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1848,
+    "author": {
+        "id": 1848,
+        "github_id": 0,
+        "username": "rosshadden",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`C`, `3`, `s`, `V`, `E`, `X`, `4`, `c`, `e`, `Z`, `n`, `q`, `Z`, `X`, `j`, `r`, `H`, `3`, `B`, `X`]",
+        "created_at": 1.75107577e+09,
+        "updated_at": 1.75107577e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.751075821e+09,
+    "created_at": 1.751075821e+09
+}

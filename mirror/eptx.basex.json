@@ -1,0 +1,22 @@
+{
+    "id": 362,
+    "name": "eptx.basex",
+    "url": "https://github.com/eptx/v-basex",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 369,
+    "author": {
+        "id": 369,
+        "github_id": 0,
+        "username": "eptx",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`l`, `S`, `7`, `m`, `1`, `R`, `a`, `4`, `I`, `X`, `H`, `v`, `2`, `Z`, `o`, `M`, `8`, `W`, `g`, `P`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

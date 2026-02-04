@@ -1,0 +1,22 @@
+{
+    "id": 344,
+    "name": "jeffangelion.mojibake",
+    "url": "https://github.com/jeffangelion/mojibake",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 351,
+    "author": {
+        "id": 351,
+        "github_id": 0,
+        "username": "jeffangelion",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`t`, `s`, `k`, `A`, `c`, `A`, `g`, `8`, `Z`, `K`, `Z`, `m`, `o`, `k`, `4`, `x`, `Z`, `6`, `P`, `3`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

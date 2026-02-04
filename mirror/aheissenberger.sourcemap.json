@@ -1,0 +1,21 @@
+{
+    "id": 263,
+    "name": "aheissenberger.sourcemap",
+    "url": "https://github.com/aheissenberger/vlang-source-map",
+    "nr_downloads": -1,
+    "user_id": 126,
+    "author": {
+        "id": 126,
+        "github_id": 0,
+        "username": "aheissenberger",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "DEMHrO3FxuQv8QVLvKQ7",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

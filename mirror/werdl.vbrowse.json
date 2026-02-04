@@ -1,0 +1,23 @@
+{
+    "id": 467,
+    "name": "werdl.vbrowse",
+    "description": "Command line browsing in V\r\n- A small command line browser in V\r\n- Basically an excuse for me to learn V, because it seemed cool\r\n\r\nCommands\r\nq - quit the browser\r\n<url> - navigate to the given url",
+    "url": "https://github.com/werdl/browser",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 880,
+    "author": {
+        "id": 880,
+        "github_id": 0,
+        "username": "werdl",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`S`, `n`, `K`, `g`, `u`, `F`, `5`, `C`, `P`, `c`, `Z`, `4`, `5`, `o`, `w`, `3`, `x`, `K`, `j`, `Y`]",
+        "created_at": 1.696608484e+09,
+        "updated_at": 1.696608484e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.696608545e+09,
+    "created_at": 1.696608545e+09
+}

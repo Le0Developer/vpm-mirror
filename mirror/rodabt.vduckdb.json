@@ -1,0 +1,23 @@
+{
+    "id": 535,
+    "name": "rodabt.vduckdb",
+    "description": "A V wrapper for duckdb lib",
+    "url": "https://github.com/rodabt/vduckdb",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 391,
+    "author": {
+        "id": 391,
+        "github_id": 0,
+        "username": "rodabt",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`L`, `F`, `g`, `l`, `r`, `Q`, `p`, `E`, `u`, `V`, `F`, `z`, `G`, `V`, `b`, `u`, `Q`, `S`, `d`, `S`]",
+        "created_at": 1.683474605e+09,
+        "updated_at": 1.683474605e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.714348049e+09,
+    "created_at": 1.714348049e+09
+}

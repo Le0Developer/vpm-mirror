@@ -1,0 +1,23 @@
+{
+    "id": 395,
+    "name": "Casper64.stbimage",
+    "description": "A V wrapper of the image loader, writer and resizer from nothings/stb. You can use it to load resize and write images from file or memory.",
+    "url": "https://github.com/Casper64/stbimage",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 435,
+    "author": {
+        "id": 435,
+        "github_id": 0,
+        "username": "Casper64",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`c`, `H`, `o`, `e`, `q`, `c`, `W`, `9`, `j`, `q`, `q`, `d`, `F`, `b`, `I`, `C`, `m`, `G`, `q`, `N`]",
+        "created_at": 1.683567846e+09,
+        "updated_at": 1.683567846e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.687097241e+09,
+    "created_at": 1.687097241e+09
+}

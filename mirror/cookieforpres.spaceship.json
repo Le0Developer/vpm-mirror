@@ -1,0 +1,22 @@
+{
+    "id": 268,
+    "name": "cookieforpres.spaceship",
+    "url": "https://github.com/cookieforpres/spaceship",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 275,
+    "author": {
+        "id": 275,
+        "github_id": 0,
+        "username": "cookieforpres",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`F`, `P`, `n`, `I`, `P`, `7`, `O`, `3`, `C`, `H`, `Q`, `a`, `H`, `t`, `X`, `q`, `a`, `b`, `5`, `e`]",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
+}

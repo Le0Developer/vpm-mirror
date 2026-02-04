@@ -1,0 +1,23 @@
+{
+    "id": 378,
+    "name": "rc4000.gtts",
+    "description": "Google Text-to-Speech support for The V Programming Language",
+    "url": "https://github.com/rc4000/gtts-vlang",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 517,
+    "author": {
+        "id": 517,
+        "github_id": 0,
+        "username": "rc4000",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`k`, `C`, `m`, `K`, `y`, `c`, `w`, `7`, `O`, `3`, `n`, `N`, `d`, `V`, `o`, `c`, `b`, `n`, `u`, `a`]",
+        "created_at": 1.685116981e+09,
+        "updated_at": 1.685116981e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.685117019e+09,
+    "created_at": 1.685117019e+09
+}

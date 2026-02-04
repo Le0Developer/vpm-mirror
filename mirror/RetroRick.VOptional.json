@@ -1,0 +1,23 @@
+{
+    "id": 405,
+    "name": "RetroRick.VOptional",
+    "description": "Simple wrapper around type to allow is an a optional value",
+    "url": "https://github.com/RetroRick/VOptional",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 642,
+    "author": {
+        "id": 642,
+        "github_id": 0,
+        "username": "RetroRick",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`7`, `V`, `M`, `a`, `J`, `1`, `6`, `Z`, `N`, `H`, `p`, `m`, `f`, `3`, `V`, `F`, `0`, `F`, `X`, `c`]",
+        "created_at": 1.688595407e+09,
+        "updated_at": 1.688595407e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.688595459e+09,
+    "created_at": 1.688595459e+09
+}

@@ -1,0 +1,26 @@
+{
+    "id": 678,
+    "name": "Frothy7650.ghpkg",
+    "description": "Indev package manager, similar to the AUR.",
+    "documentation": "",
+    "url": "https://github.com/Frothy7650/ghpkg.git",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1976,
+    "author": {
+        "id": 1976,
+        "github_id": 0,
+        "username": "Frothy7650",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`7`, `b`, `E`, `I`, `h`, `6`, `D`, `j`, `R`, `7`, `z`, `V`, `Z`, `A`, `8`, `p`, `o`, `K`, `d`, `2`]",
+        "created_at": 1.763157956e+09,
+        "updated_at": 1.763157956e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.76525318e+09,
+    "created_at": 1.76525318e+09
+}

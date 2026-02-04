@@ -1,0 +1,21 @@
+{
+    "id": 17,
+    "name": "endeveit.validate",
+    "url": "https://github.com/endeveit/v-validate",
+    "nr_downloads": -1,
+    "user_id": 24,
+    "author": {
+        "id": 24,
+        "github_id": 0,
+        "username": "endeveit",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "wkid7x3Txq7v8gFovuFy%V",
+        "created_at": 1.68346839e+09,
+        "updated_at": 1.68346839e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.68346839e+09,
+    "created_at": 1.68346839e+09
+}

@@ -1,0 +1,26 @@
+{
+    "id": 674,
+    "name": "New-Tech-Exclusive.VTorch",
+    "description": "A torch LIB for the V programming language, or V for AI/Neural Networks",
+    "documentation": "",
+    "url": "https://github.com/New-Tech-Exclusive/V-Torch",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1986,
+    "author": {
+        "id": 1986,
+        "github_id": 0,
+        "username": "New-Tech-Exclusive",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`E`, `y`, `r`, `q`, `f`, `m`, `b`, `u`, `H`, `b`, `p`, `J`, `X`, `4`, `N`, `3`, `R`, `z`, `X`, `N`]",
+        "created_at": 1.764258918e+09,
+        "updated_at": 1.764258918e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.764371047e+09,
+    "created_at": 1.764371047e+09
+}

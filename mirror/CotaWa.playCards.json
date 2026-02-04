@@ -1,0 +1,26 @@
+{
+    "id": 658,
+    "name": "CotaWa.playCards",
+    "description": "This is a port of the python module playingcards. There may be bugs, probably many bugs. If you find any bugs, please open them as an issue on github.",
+    "documentation": "",
+    "url": "https://github.com/CotaWa/playingcards-vlang",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1917,
+    "author": {
+        "id": 1917,
+        "github_id": 0,
+        "username": "CotaWa",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`S`, `F`, `7`, `0`, `Q`, `t`, `o`, `y`, `j`, `v`, `7`, `u`, `3`, `H`, `s`, `m`, `1`, `c`, `u`, `u`]",
+        "created_at": 1.758921501e+09,
+        "updated_at": 1.758921501e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.75951783e+09,
+    "created_at": 1.75951783e+09
+}

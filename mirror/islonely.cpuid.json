@@ -1,0 +1,23 @@
+{
+    "id": 425,
+    "name": "islonely.cpuid",
+    "description": "Get information about the system CPU.",
+    "url": "https://github.com/islonely/cpuid",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 26,
+    "author": {
+        "id": 26,
+        "github_id": 0,
+        "username": "islonely",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "qbYf9k50Dyqj8LnmuTuh",
+        "created_at": 1.68346839e+09,
+        "updated_at": 1.68346839e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.691872945e+09,
+    "created_at": 1.691872945e+09
+}

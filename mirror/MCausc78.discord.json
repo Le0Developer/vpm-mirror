@@ -1,0 +1,23 @@
+{
+    "id": 505,
+    "name": "MCausc78.discord",
+    "description": "Discord API wrapper",
+    "url": "https://github.com/MCausc78/discord.v",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 949,
+    "author": {
+        "id": 949,
+        "github_id": 0,
+        "username": "MCausc78",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`C`, `s`, `8`, `B`, `X`, `l`, `k`, `P`, `A`, `D`, `0`, `a`, `8`, `B`, `O`, `f`, `p`, `v`, `e`, `D`]",
+        "created_at": 1.69939241e+09,
+        "updated_at": 1.69939241e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.704981871e+09,
+    "created_at": 1.704981871e+09
+}

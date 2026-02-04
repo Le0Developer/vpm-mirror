@@ -1,0 +1,23 @@
+{
+    "id": 450,
+    "name": "ken0x0a.sterm",
+    "description": "simple term lib.\r\n\r\n### Select\r\n\r\n```v\r\nimport sterm { Selection }\r\n\r\nfn main() {\r\n\tmut sel := Selection{\r\n\t\titems: ['a', 'b', 'c']\r\n\t\tidx: 0\r\n\t\thide_cursor: true\r\n\t}\r\n\tsel.draw()\r\n\tsel.run()\r\n\r\n\tprintln('You selected \"${sel.value()}\"')\r\n}\r\n```\r\n",
+    "url": "https://github.com/ken0x0a/sterm",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 783,
+    "author": {
+        "id": 783,
+        "github_id": 0,
+        "username": "ken0x0a",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`T`, `r`, `7`, `V`, `I`, `9`, `x`, `Z`, `w`, `O`, `7`, `m`, `M`, `5`, `Z`, `9`, `3`, `A`, `J`, `c`]",
+        "created_at": 1.694742516e+09,
+        "updated_at": 1.694742516e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.694829929e+09,
+    "created_at": 1.694829929e+09
+}

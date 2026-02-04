@@ -1,0 +1,23 @@
+{
+    "id": 524,
+    "name": "lv37.utils",
+    "description": "Utility functions for V\r\n\r\n",
+    "url": "https://github.com/lv37/utils",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1195,
+    "author": {
+        "id": 1195,
+        "github_id": 0,
+        "username": "lv37",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "[`5`, `b`, `C`, `t`, `C`, `T`, `Q`, `x`, `z`, `U`, `p`, `k`, `t`, `o`, `V`, `z`, `7`, `v`, `v`, `T`]",
+        "created_at": 1.710604621e+09,
+        "updated_at": 1.710604621e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.710604638e+09,
+    "created_at": 1.710604638e+09
+}
