@@ -9,7 +9,7 @@ const vpm_hosts = ['https://vpm.vlang.io', 'https://vpm.url4e.com']
 const mirror_target = 'mirror'
 const is_ci = os.getenv_opt('CI') != none
 const term_width = 60
-const max_concurrent_downloads = 8
+const max_concurrent_downloads = 1
 
 fn main() {
 	unbuffer_stdout()
