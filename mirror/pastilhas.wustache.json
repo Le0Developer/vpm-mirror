@@ -1,23 +1,23 @@
 {
-    "id": 577,
-    "name": "Pastilhas.wustache",
-    "description": "Template engine written in V. Uses syntax similar to Mustache, the reason why it's called Wustache. It's built to be simple and error tolerant, with options to make it strict.",
-    "url": "https://github.com/Pastilhas/wustache",
+    "id": 579,
+    "name": "pastilhas.wustache",
+    "description": "wustache is a lightweight and efficient templating engine written in V. It provides a fast way to render templates with dynamic content. Simple as 1, 2, 3 — (1) load the template, (2) write the context as JSON, and (3) execute render. It is safe by default, but you can make it less picky.",
+    "url": "https://github.com/pastilhas/wustache",
     "nr_downloads": -1,
     "vcs": "git",
-    "user_id": 1387,
+    "user_id": 1401,
     "author": {
-        "id": 1387,
+        "id": 1401,
         "github_id": 0,
-        "username": "Pastilhas",
+        "username": "pastilhas",
         "is_blocked": false,
         "is_admin": false,
-        "random_id": "[`B`, `i`, `X`, `3`, `X`, `J`, `a`, `4`, `V`, `B`, `w`, `E`, `F`, `4`, `L`, `K`, `o`, `F`, `1`, `J`]",
-        "created_at": 1.727027227e+09,
-        "updated_at": 1.727027227e+09
+        "random_id": "[`v`, `d`, `5`, `7`, `X`, `Y`, `W`, `7`, `M`, `d`, `8`, `F`, `F`, `y`, `1`, `n`, `x`, `p`, `4`, `6`]",
+        "created_at": 1.7272605e+09,
+        "updated_at": 1.7272605e+09
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.727027283e+09,
-    "created_at": 1.727027283e+09
+    "updated_at": 1.727260538e+09,
+    "created_at": 1.727260538e+09
 }

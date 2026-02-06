@@ -1,8 +1,8 @@
 {
-    "id": 440,
-    "name": "PoulDev.SimpleAES",
+    "id": 441,
+    "name": "PoulDev.simpleAES",
     "description": "simple_aes is a library that simplifies the usage of AES in VLang. This is because the implementation provided by the built-in crypto.aes library does not support data of lengths greater or smaller than the AES block size (16 bytes).",
-    "url": "https://github.com/PoulDev/V-SimpleAES/tree/main",
+    "url": "https://github.com/PoulDev/simple_aes",
     "nr_downloads": -1,
     "vcs": "git",
     "user_id": 752,
@@ -18,6 +18,6 @@
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.693749866e+09,
-    "created_at": 1.693749866e+09
+    "updated_at": 1.69375469e+09,
+    "created_at": 1.69375469e+09
 }
