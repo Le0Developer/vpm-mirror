@@ -1,8 +1,22 @@
 {
-    "id": 0,
+    "id": 249,
     "name": "IsaiahPatton.vide",
-    "description": "mirrored IsaiahPatton.vide",
     "url": "https://github.com/IsaiahPatton/Vide",
     "nr_downloads": -1,
-    "vcs": ""
+    "vcs": "git",
+    "user_id": 151,
+    "author": {
+        "id": 151,
+        "github_id": 0,
+        "username": "IsaiahPatton",
+        "is_blocked": false,
+        "is_admin": false,
+        "random_id": "d0Gpu3mCvNXzSUlH2yDj",
+        "created_at": 1.683468391e+09,
+        "updated_at": 1.683468391e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.683468391e+09,
+    "created_at": 1.683468391e+09
 }
