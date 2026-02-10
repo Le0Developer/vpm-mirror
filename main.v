@@ -5,7 +5,7 @@ import regex
 import net.http
 import x.json2
 
-const vpm_hosts = ['https://vpm.vlang.io', 'https://vpm.url4e.com']
+const vpm_hosts = ['https://vpm.vlang.io']
 const mirror_target = 'mirror'
 const is_ci = os.getenv_opt('CI') != none
 const term_width = 60
