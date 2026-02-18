@@ -60,7 +60,7 @@ fn main() {
 				continue
 			}
 			println('Removing removed package ${mirrored}')
-			os.rm(mirrored)!
+			os.rm(os.join_path(mirror_target, mirrored))!
 		}
 	}
 }
