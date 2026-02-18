@@ -1,0 +1,26 @@
+{
+    "id": 699,
+    "name": "quaesitor-scientiam.vebidor",
+    "description": "Production-ready WebDriver for V - 85% Selenium parity. Automates Edge/Chrome/Firefox with W3C compliance. Full element properties, alerts, windows, timeouts & actions API support.\r\n\r\n",
+    "documentation": "",
+    "url": "https://github.com/quaesitor-scientiam/v-webdriver",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1637,
+    "author": {
+        "id": 1637,
+        "github_id": 0,
+        "username": "quaesitor-scientiam",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`F`, `I`, `t`, `M`, `B`, `L`, `B`, `W`, `s`, `a`, `h`, `q`, `W`, `D`, `i`, `s`, `n`, `A`, `I`, `4`]",
+        "created_at": 1.73591656e+09,
+        "updated_at": 1.73591656e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.771196176e+09,
+    "created_at": 1.771196176e+09
+}

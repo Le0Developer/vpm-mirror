@@ -1,0 +1,26 @@
+{
+    "id": 698,
+    "name": "vgtxc.vgtxc",
+    "description": "just a watcher",
+    "documentation": "",
+    "url": "https://github.com/vgtxc",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2078,
+    "author": {
+        "id": 2078,
+        "github_id": 0,
+        "username": "vgtxc",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`P`, `w`, `0`, `Q`, `o`, `I`, `C`, `h`, `I`, `C`, `d`, `l`, `Y`, `a`, `H`, `o`, `l`, `m`, `3`, `1`]",
+        "created_at": 1.770994963e+09,
+        "updated_at": 1.770994963e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.770994998e+09,
+    "created_at": 1.770994998e+09
+}
