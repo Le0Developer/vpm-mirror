@@ -1,7 +1,7 @@
 {
     "id": 700,
     "name": "DaZhi-the-Revelator.contracts",
-    "description": "A contract programming module for V. It provides preconditions, postconditions, invariants, and assertions — all routable through a replaceable violation handler, all disable-able with a single flag, and all integrated with V's native `!T` error propagation.",
+    "description": "A contract programming module for V. It provides preconditions, postconditions, invariants, and assertions — all routable through a replaceable violation handler, all disable-able with a single flag, and all integrated with V's native `!T` error propagation. Also includes aliases.",
     "documentation": "",
     "url": "https://github.com/DaZhi-the-Revelator/contracts",
     "nr_downloads": -1,
