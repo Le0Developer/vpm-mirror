@@ -1,0 +1,26 @@
+{
+    "id": 709,
+    "name": "horizon-std.callJSON",
+    "description": "Call json easily in V. Please just read the readme.md in the repo.",
+    "documentation": "",
+    "url": "https://github.com/horizon-std/calljson",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2127,
+    "author": {
+        "id": 2127,
+        "github_id": 0,
+        "username": "horizon-std",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`b`, `t`, `c`, `h`, `B`, `t`, `m`, `8`, `v`, `p`, `4`, `4`, `E`, `p`, `T`, `z`, `Y`, `H`, `u`, `B`]",
+        "created_at": 1.776109237e+09,
+        "updated_at": 1.776109237e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.776110289e+09,
+    "created_at": 1.776110289e+09
+}
