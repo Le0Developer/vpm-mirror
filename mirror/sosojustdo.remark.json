@@ -1,0 +1,26 @@
+{
+    "id": 712,
+    "name": "sosojustdo.remark",
+    "description": "A simple, in-browser, markdown-driven slideshow tool.",
+    "documentation": "",
+    "url": "https://github.com/sosojustdo/remark",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2137,
+    "author": {
+        "id": 2137,
+        "github_id": 0,
+        "username": "sosojustdo",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`F`, `V`, `8`, `C`, `a`, `y`, `g`, `V`, `g`, `X`, `o`, `w`, `B`, `H`, `g`, `m`, `t`, `T`, `h`, `K`]",
+        "created_at": 1.777455408e+09,
+        "updated_at": 1.777455408e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.777460078e+09,
+    "created_at": 1.777460078e+09
+}
