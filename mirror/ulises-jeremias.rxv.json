@@ -1,6 +1,7 @@
 {
     "id": 64,
     "name": "ulises-jeremias.rxv",
+    "description": "RxV is a ReactiveX implementation for the V programming language — fully generic, built on channels, zero dependencies.",
     "url": "https://github.com/ulises-jeremias/rxv",
     "nr_downloads": -1,
     "user_id": 71,
