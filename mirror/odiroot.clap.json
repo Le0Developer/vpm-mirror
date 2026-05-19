@@ -1,7 +1,7 @@
 {
     "id": 520,
     "name": "odiroot.clap",
-    "description": " Low-level wrapper for CLAP plugin API in V ",
+    "description": "Low-level, high-performance V wrapper for the CLAP (CLever Audio Plugin) API.\r\n\r\nThis library provides a near-zero overhead interface to CLAP, staying as close to the C version as possible while offering an idiomatic V experience.",
     "url": "https://github.com/odiroot/clap-lib",
     "nr_downloads": -1,
     "vcs": "git",
