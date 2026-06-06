@@ -3,7 +3,7 @@
     "name": "blackshirt.hkdf",
     "description": "HMAC-based Extract-and-Expand Key Derivation Function (HKDF) in pure V Language",
     "documentation": "",
-    "url": "https://github.com/blackshirt/hkdf",
+    "url": "https://github.com/blackshirt/hkdf.git",
     "nr_downloads": -1,
     "vcs": "git",
     "user_id": 48,
