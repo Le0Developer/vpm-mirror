@@ -1,7 +1,7 @@
 {
-    "id": 697,
+    "id": 719,
     "name": "Frothy7650.vircc",
-    "description": "A minimal IRC library",
+    "description": "Simple IRC client library",
     "documentation": "",
     "url": "https://github.com/Frothy7650/vircc.git",
     "nr_downloads": -1,
@@ -21,6 +21,6 @@
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.770954984e+09,
-    "created_at": 1.770954984e+09
+    "updated_at": 1.781183121e+09,
+    "created_at": 1.781183121e+09
 }
