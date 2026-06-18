@@ -1,0 +1,26 @@
+{
+    "id": 720,
+    "name": "dariotarantini.vgram",
+    "description": "Complete Telegram Bot API library for V. Covers every type and method of Bot API 10.1.0, generated from the official schema. Typed Result-based calls (!T) with a structured TelegramError, plus configurable timeout, debug logging and custom headers.\r\n",
+    "documentation": "",
+    "url": "https://github.com/dariotarantini/vgram",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2166,
+    "author": {
+        "id": 2166,
+        "github_id": 0,
+        "username": "dariotarantini",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`X`, `O`, `O`, `D`, `y`, `h`, `v`, `d`, `T`, `b`, `8`, `q`, `j`, `O`, `x`, `a`, `e`, `d`, `e`, `b`]",
+        "created_at": 1.781688292e+09,
+        "updated_at": 1.781688292e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.781688494e+09,
+    "created_at": 1.781688494e+09
+}
