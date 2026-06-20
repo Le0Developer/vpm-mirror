@@ -1,0 +1,26 @@
+{
+    "id": 721,
+    "name": "jrmarcum.uwl",
+    "description": "Idiomatic V binding for the Universal WASM Loader (over the C single-header loader).",
+    "documentation": "",
+    "url": "https://github.com/jrmarcum/universalWasmLoader-v.git",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2167,
+    "author": {
+        "id": 2167,
+        "github_id": 0,
+        "username": "jrmarcum",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`1`, `F`, `1`, `v`, `a`, `w`, `0`, `h`, `P`, `D`, `J`, `b`, `W`, `B`, `v`, `e`, `4`, `6`, `z`, `L`]",
+        "created_at": 1.781907044e+09,
+        "updated_at": 1.781907044e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.781907971e+09,
+    "created_at": 1.781907971e+09
+}
