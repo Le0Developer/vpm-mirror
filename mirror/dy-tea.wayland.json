@@ -1,0 +1,26 @@
+{
+    "id": 724,
+    "name": "dy-tea.wayland",
+    "description": " Wayland bindings for the V programming language",
+    "documentation": "",
+    "url": "https://github.com/dy-tea/wayland",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1599,
+    "author": {
+        "id": 1599,
+        "github_id": 0,
+        "username": "dy-tea",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`5`, `W`, `t`, `b`, `Y`, `6`, `3`, `E`, `F`, `z`, `6`, `X`, `1`, `T`, `3`, `M`, `K`, `k`, `t`, `s`]",
+        "created_at": 1.734225419e+09,
+        "updated_at": 1.734225419e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.782144827e+09,
+    "created_at": 1.782144827e+09
+}
