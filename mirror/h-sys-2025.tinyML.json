@@ -1,0 +1,26 @@
+{
+    "id": 727,
+    "name": "h-sys-2025.tinyML",
+    "description": "A simple+lightweight lib for machine learning in v. (beta)",
+    "documentation": "",
+    "url": "https://github.com/h-sys-2025/tinyML",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2172,
+    "author": {
+        "id": 2172,
+        "github_id": 0,
+        "username": "h-sys-2025",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`J`, `6`, `O`, `2`, `G`, `J`, `H`, `8`, `h`, `X`, `R`, `8`, `C`, `v`, `K`, `k`, `6`, `0`, `v`, `I`]",
+        "created_at": 1.782201348e+09,
+        "updated_at": 1.782201348e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.782370011e+09,
+    "created_at": 1.782370011e+09
+}
