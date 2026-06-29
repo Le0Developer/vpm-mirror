@@ -1,0 +1,26 @@
+{
+    "id": 728,
+    "name": "nepinhum.i18n",
+    "description": " An i18n translation library for V.",
+    "documentation": "",
+    "url": "https://github.com/nepinhum/i18n",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2165,
+    "author": {
+        "id": 2165,
+        "github_id": 0,
+        "username": "nepinhum",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`2`, `t`, `f`, `C`, `d`, `T`, `V`, `Y`, `a`, `R`, `K`, `e`, `c`, `3`, `v`, `l`, `O`, `g`, `V`, `r`]",
+        "created_at": 1.781374195e+09,
+        "updated_at": 1.781374195e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.78267134e+09,
+    "created_at": 1.78267134e+09
+}
