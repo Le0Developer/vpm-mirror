@@ -1,7 +1,7 @@
 {
     "id": 730,
     "name": "Frothy7650.dag",
-    "description": "Vlang implementation of a Directed Acyclic Graph",
+    "description": "Vlang implementation of a Directed Acyclic Graph. Not intended for use in other projects as it is designed for my package manager.",
     "documentation": "",
     "url": "https://github.com/Frothy7650/dag.git",
     "nr_downloads": -1,
