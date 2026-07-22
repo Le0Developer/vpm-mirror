@@ -1,0 +1,26 @@
+{
+    "id": 732,
+    "name": "andreasqueri.dmenu",
+    "description": "A dmenu wrapper in vlang",
+    "documentation": "",
+    "url": "https://github.com/andreasqueri/dmenu.git",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2189,
+    "author": {
+        "id": 2189,
+        "github_id": 0,
+        "username": "andreasqueri",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`u`, `k`, `H`, `D`, `w`, `U`, `1`, `a`, `7`, `O`, `R`, `3`, `R`, `H`, `K`, `9`, `E`, `P`, `R`, `2`]",
+        "created_at": 1.78464913e+09,
+        "updated_at": 1.78464913e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.784649216e+09,
+    "created_at": 1.784649216e+09
+}
