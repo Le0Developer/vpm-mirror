@@ -1,0 +1,26 @@
+{
+    "id": 734,
+    "name": "codecaine-zz.simplegui",
+    "description": "A MacOS-native GUI starter project written in V, designed to feel approachable for programmers coming from Python, Delphi, or VBA.",
+    "documentation": "",
+    "url": "https://github.com/codecaine-zz/vlang_simplegui",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2184,
+    "author": {
+        "id": 2184,
+        "github_id": 0,
+        "username": "codecaine-zz",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`F`, `a`, `H`, `p`, `K`, `a`, `O`, `R`, `d`, `R`, `l`, `U`, `i`, `H`, `N`, `K`, `R`, `2`, `0`, `b`]",
+        "created_at": 1.784247635e+09,
+        "updated_at": 1.784247635e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.785260549e+09,
+    "created_at": 1.785260549e+09
+}

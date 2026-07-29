@@ -7,16 +7,14 @@
     "vcs": "git",
     "user_id": 579,
     "author": {
-        "id": 1913,
+        "id": 579,
         "github_id": 0,
-        "username": "Meeds122",
-        "avatar_url": "",
+        "username": "prantlf",
         "is_blocked": false,
-        "block_reason": "",
         "is_admin": false,
-        "random_id": "[`a`, `2`, `1`, `s`, `m`, `8`, `t`, `o`, `y`, `b`, `X`, `r`, `d`, `s`, `P`, `i`, `0`, `O`, `9`, `F`]",
-        "created_at": 1.758761325e+09,
-        "updated_at": 1.758761325e+09
+        "random_id": "[`n`, `T`, `q`, `8`, `Y`, `j`, `B`, `W`, `g`, `S`, `7`, `8`, `p`, `S`, `W`, `o`, `w`, `u`, `H`, `R`]",
+        "created_at": 1.686032849e+09,
+        "updated_at": 1.686032849e+09
     },
     "stars": 0,
     "is_flatten": false,
