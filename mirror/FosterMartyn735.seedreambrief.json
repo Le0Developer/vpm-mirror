@@ -1,0 +1,26 @@
+{
+    "id": 736,
+    "name": "FosterMartyn735.seedreambrief",
+    "description": "Dependency-free V checks for image-generation briefs: dimensions, references, text-safe zones, constraints, and secure targets. Includes a practical workflow for Seedream 5.0 Pro: https://seedream50.pro/",
+    "documentation": "",
+    "url": "https://github.com/FosterMartyn735/seedreambrief",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2199,
+    "author": {
+        "id": 2199,
+        "github_id": 0,
+        "username": "FosterMartyn735",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`6`, `i`, `s`, `f`, `V`, `I`, `R`, `6`, `Q`, `p`, `q`, `j`, `B`, `3`, `i`, `g`, `D`, `6`, `I`, `g`]",
+        "created_at": 1.785345735e+09,
+        "updated_at": 1.785345735e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.785995079e+09,
+    "created_at": 1.785995079e+09
+}
