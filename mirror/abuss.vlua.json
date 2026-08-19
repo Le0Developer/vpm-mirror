@@ -1,0 +1,26 @@
+{
+    "id": 741,
+    "name": "abuss.vlua",
+    "description": "vlua is a minimal, importable module that lets V programs create a Lua state, execute Lua snippets, read/write Lua globals and tables, register V functions callable from Lua, and call Lua functions with V arguments. It uses raw C calls with no external dependencies beyond a Lua 5.4 installation.\r\n\r\n",
+    "documentation": "",
+    "url": "https://github.com/abuss/vlua",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2221,
+    "author": {
+        "id": 2221,
+        "github_id": 0,
+        "username": "abuss",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "random_id": "[`b`, `p`, `k`, `H`, `c`, `E`, `n`, `Z`, `w`, `M`, `B`, `D`, `y`, `6`, `M`, `S`, `W`, `9`, `x`, `O`]",
+        "created_at": 1.787070167e+09,
+        "updated_at": 1.787070167e+09
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": 1.787093477e+09,
+    "created_at": 1.787093477e+09
+}
