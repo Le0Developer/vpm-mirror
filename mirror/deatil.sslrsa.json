@@ -1,0 +1,25 @@
+{
+    "id": 743,
+    "name": "deatil.sslrsa",
+    "description": "A RSA library base on openssl for vlang.",
+    "documentation": "",
+    "url": "https://github.com/deatil/v-ssl-rsa",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2206,
+    "author": {
+        "id": 2206,
+        "github_id": 0,
+        "username": "deatil",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "created_at": "2026-08-09T16:29:00.000Z",
+        "updated_at": "2026-08-09T16:29:00.000Z"
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": "2026-08-31T02:59:49.388Z",
+    "created_at": "2026-08-31T02:59:49.388Z"
+}

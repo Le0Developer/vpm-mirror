@@ -1,21 +1,25 @@
 {
     "id": 81,
     "name": "bartimus-primed.vbc",
+    "description": "",
+    "documentation": "",
     "url": "https://github.com/bartimus-primed/vbc",
     "nr_downloads": -1,
+    "vcs": "git",
     "user_id": 88,
     "author": {
         "id": 88,
         "github_id": 0,
         "username": "bartimus-primed",
+        "avatar_url": "",
         "is_blocked": false,
+        "block_reason": "",
         "is_admin": false,
-        "random_id": "D1mLKUx3TvTgZqj5MgrnrU",
-        "created_at": 1.68346839e+09,
-        "updated_at": 1.68346839e+09
+        "created_at": "2023-05-07T14:06:30.000Z",
+        "updated_at": "2023-05-07T14:06:30.000Z"
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.68346839e+09,
-    "created_at": 1.68346839e+09
+    "updated_at": "2023-05-07T14:06:30.000Z",
+    "created_at": "2023-05-07T14:06:30.000Z"
 }

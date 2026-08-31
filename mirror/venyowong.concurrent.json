@@ -11,14 +11,15 @@
         "id": 757,
         "github_id": 0,
         "username": "venyowong",
+        "avatar_url": "",
         "is_blocked": false,
+        "block_reason": "",
         "is_admin": false,
-        "random_id": "[`4`, `r`, `I`, `1`, `v`, `6`, `p`, `d`, `g`, `1`, `P`, `A`, `V`, `5`, `D`, `5`, `6`, `7`, `d`, `B`]",
-        "created_at": 1.693899639e+09,
-        "updated_at": 1.693899639e+09
+        "created_at": "2023-09-05T07:40:39.000Z",
+        "updated_at": "2023-09-05T07:40:39.000Z"
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.758285941e+09,
-    "created_at": 1.758285941e+09
+    "updated_at": "2025-09-19T12:45:41.000Z",
+    "created_at": "2025-09-19T12:45:41.000Z"
 }

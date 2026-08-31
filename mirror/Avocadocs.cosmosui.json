@@ -2,6 +2,7 @@
     "id": 560,
     "name": "Avocadocs.cosmosui",
     "description": "UI library for the Cosmos code editor",
+    "documentation": "",
     "url": "https://github.com/Avocadocs/cosmosui",
     "nr_downloads": -1,
     "vcs": "git",
@@ -10,14 +11,15 @@
         "id": 1343,
         "github_id": 0,
         "username": "Avocadocs",
+        "avatar_url": "",
         "is_blocked": false,
+        "block_reason": "",
         "is_admin": false,
-        "random_id": "[`W`, `Z`, `4`, `a`, `H`, `0`, `f`, `x`, `q`, `w`, `o`, `W`, `L`, `w`, `j`, `W`, `T`, `x`, `e`, `F`]",
-        "created_at": 1.724536292e+09,
-        "updated_at": 1.724536292e+09
+        "created_at": "2024-08-24T21:51:32.000Z",
+        "updated_at": "2024-08-24T21:51:32.000Z"
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.724536905e+09,
-    "created_at": 1.724536905e+09
+    "updated_at": "2024-08-24T22:01:45.000Z",
+    "created_at": "2024-08-24T22:01:45.000Z"
 }

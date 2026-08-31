@@ -2,6 +2,7 @@
     "id": 454,
     "name": "holder66.vhamml",
     "description": "A machine learning (ML) library for classification using a nearest neighbor algorithm based on Hamming distances.\r\nYou can incorporate the `VHamML` functions into your own code, or use the included Command Line Interface app (`src/vhamml.v`).",
+    "documentation": "",
     "url": "https://github.com/holder66/vhamml",
     "nr_downloads": -1,
     "vcs": "git",
@@ -10,14 +11,15 @@
         "id": 167,
         "github_id": 0,
         "username": "holder66",
+        "avatar_url": "",
         "is_blocked": false,
+        "block_reason": "",
         "is_admin": false,
-        "random_id": "HFUtsqzvDRDJ2odGOAe3",
-        "created_at": 1.683468391e+09,
-        "updated_at": 1.683468391e+09
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "updated_at": "2023-05-07T14:06:31.000Z"
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.695414866e+09,
-    "created_at": 1.695414866e+09
+    "updated_at": "2023-09-22T20:34:26.000Z",
+    "created_at": "2023-09-22T20:34:26.000Z"
 }

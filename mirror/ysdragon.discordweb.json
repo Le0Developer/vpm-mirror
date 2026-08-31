@@ -2,6 +2,7 @@
     "id": 447,
     "name": "ysdragon.discordweb",
     "description": "Super simple interface to send discord messages through webhooks in vlang",
+    "documentation": "",
     "url": "https://github.com/ysdragon/discordwebhook",
     "nr_downloads": -1,
     "vcs": "git",
@@ -10,14 +11,15 @@
         "id": 774,
         "github_id": 0,
         "username": "ysdragon",
+        "avatar_url": "",
         "is_blocked": false,
+        "block_reason": "",
         "is_admin": false,
-        "random_id": "[`N`, `f`, `2`, `o`, `f`, `e`, `v`, `M`, `n`, `G`, `7`, `Q`, `3`, `7`, `d`, `9`, `A`, `w`, `u`, `u`]",
-        "created_at": 1.694442745e+09,
-        "updated_at": 1.694442745e+09
+        "created_at": "2023-09-11T14:32:25.000Z",
+        "updated_at": "2023-09-11T14:32:25.000Z"
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.694442789e+09,
-    "created_at": 1.694442789e+09
+    "updated_at": "2023-09-11T14:33:09.000Z",
+    "created_at": "2023-09-11T14:33:09.000Z"
 }

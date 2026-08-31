@@ -2,6 +2,7 @@
     "id": 438,
     "name": "trufae.gemini",
     "description": "client, fcgi and server gemini protocol implementation\r\n\r\nFMI: https://gemini.circumlunar.space",
+    "documentation": "",
     "url": "https://github.com/trufae/v-gemini",
     "nr_downloads": -1,
     "vcs": "git",
@@ -10,14 +11,15 @@
         "id": 44,
         "github_id": 0,
         "username": "trufae",
+        "avatar_url": "",
         "is_blocked": false,
+        "block_reason": "",
         "is_admin": false,
-        "random_id": "mjxPFALnFksFDyKYJBIg",
-        "created_at": 1.68346839e+09,
-        "updated_at": 1.68346839e+09
+        "created_at": "2023-05-07T14:06:30.000Z",
+        "updated_at": "2023-05-07T14:06:30.000Z"
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.693249082e+09,
-    "created_at": 1.693249082e+09
+    "updated_at": "2023-08-28T18:58:02.000Z",
+    "created_at": "2023-08-28T18:58:02.000Z"
 }

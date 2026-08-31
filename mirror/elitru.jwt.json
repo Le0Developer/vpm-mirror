@@ -1,21 +1,25 @@
 {
     "id": 224,
     "name": "elitru.jwt",
+    "description": "",
+    "documentation": "",
     "url": "https://github.com/elitru/v-jwt",
     "nr_downloads": -1,
+    "vcs": "git",
     "user_id": 231,
     "author": {
         "id": 231,
         "github_id": 0,
         "username": "elitru",
+        "avatar_url": "",
         "is_blocked": false,
+        "block_reason": "",
         "is_admin": false,
-        "random_id": "K41IlZkQM8Vqmsk3QfHXAV",
-        "created_at": 1.683468391e+09,
-        "updated_at": 1.683468391e+09
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "updated_at": "2023-05-07T14:06:31.000Z"
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.683468391e+09,
-    "created_at": 1.683468391e+09
+    "updated_at": "2023-05-07T14:06:31.000Z",
+    "created_at": "2023-05-07T14:06:31.000Z"
 }

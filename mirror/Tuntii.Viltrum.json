@@ -15,12 +15,11 @@
         "is_blocked": false,
         "block_reason": "",
         "is_admin": false,
-        "random_id": "[`j`, `y`, `r`, `m`, `S`, `n`, `3`, `c`, `u`, `B`, `k`, `E`, `X`, `k`, `Q`, `T`, `y`, `u`, `k`, `s`]",
-        "created_at": 1.784353857e+09,
-        "updated_at": 1.784353857e+09
+        "created_at": "2026-07-18T05:50:57.000Z",
+        "updated_at": "2026-07-18T05:50:57.000Z"
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.784358104e+09,
-    "created_at": 1.784358104e+09
+    "updated_at": "2026-07-18T07:01:44.000Z",
+    "created_at": "2026-07-18T07:01:44.000Z"
 }

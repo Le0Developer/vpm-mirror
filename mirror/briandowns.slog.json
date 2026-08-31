@@ -2,6 +2,7 @@
     "id": 558,
     "name": "briandowns.slog",
     "description": "Structured level logger (JSON)",
+    "documentation": "",
     "url": "https://github.com/briandowns/v_slog",
     "nr_downloads": -1,
     "vcs": "git",
@@ -10,14 +11,15 @@
         "id": 1318,
         "github_id": 0,
         "username": "briandowns",
+        "avatar_url": "",
         "is_blocked": false,
+        "block_reason": "",
         "is_admin": false,
-        "random_id": "[`e`, `W`, `G`, `x`, `h`, `m`, `J`, `j`, `x`, `E`, `Y`, `E`, `Q`, `y`, `U`, `f`, `S`, `5`, `e`, `G`]",
-        "created_at": 1.722218654e+09,
-        "updated_at": 1.722218654e+09
+        "created_at": "2024-07-29T02:04:14.000Z",
+        "updated_at": "2024-07-29T02:04:14.000Z"
     },
     "stars": 0,
     "is_flatten": false,
-    "updated_at": 1.72246413e+09,
-    "created_at": 1.72246413e+09
+    "updated_at": "2024-07-31T22:15:30.000Z",
+    "created_at": "2024-07-31T22:15:30.000Z"
 }
