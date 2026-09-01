@@ -1,0 +1,25 @@
+{
+    "id": 749,
+    "name": "leveldb",
+    "description": "LevelDB key/value database implementation in pure V",
+    "documentation": "",
+    "url": "https://github.com/vlang/leveldb",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 67,
+    "author": {
+        "id": 67,
+        "github_id": 0,
+        "username": "medvednikov",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "created_at": "2023-05-07T14:06:30.000Z",
+        "updated_at": "2023-05-07T14:06:30.000Z"
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": "2026-08-31T12:07:29.156Z",
+    "created_at": "2026-08-31T12:07:29.156Z"
+}
