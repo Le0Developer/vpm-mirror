@@ -1,0 +1,25 @@
+{
+    "id": 755,
+    "name": "antono2.vkmemalloc",
+    "description": "Lightweight Vulkan memory-allocation helpers for V using explicit dedicated allocations; not AMD VMA.",
+    "documentation": "",
+    "url": "https://github.com/antono2/vulkan_memory_allocator",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 1444,
+    "author": {
+        "id": 1444,
+        "github_id": 0,
+        "username": "antono2",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "created_at": "2024-10-01T20:22:59.000Z",
+        "updated_at": "2024-10-01T20:22:59.000Z"
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": "2026-09-07T15:54:53.307Z",
+    "created_at": "2026-09-07T15:54:53.307Z"
+}

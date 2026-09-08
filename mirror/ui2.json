@@ -1,0 +1,25 @@
+{
+    "id": 757,
+    "name": "ui2",
+    "description": "",
+    "documentation": "",
+    "url": "https://github.com/vlang/ui2",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 67,
+    "author": {
+        "id": 67,
+        "github_id": 0,
+        "username": "medvednikov",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "created_at": "2023-05-07T14:06:30.000Z",
+        "updated_at": "2023-05-07T14:06:30.000Z"
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": "2026-09-07T18:14:38.427Z",
+    "created_at": "2026-09-07T18:14:38.427Z"
+}
