@@ -1,0 +1,25 @@
+{
+    "id": 759,
+    "name": "CptnDuras.Meshcorev",
+    "description": "Vlang library to interact with meshcore devices. (currently testing with Heltec v3 devices & APIs) ",
+    "documentation": "",
+    "url": "https://github.com/CptnDuras/meshcore-v.git",
+    "nr_downloads": -1,
+    "vcs": "git",
+    "user_id": 2246,
+    "author": {
+        "id": 2246,
+        "github_id": 0,
+        "username": "CptnDuras",
+        "avatar_url": "",
+        "is_blocked": false,
+        "block_reason": "",
+        "is_admin": false,
+        "created_at": "2026-09-11T14:37:10.113Z",
+        "updated_at": "2026-09-11T14:37:10.113Z"
+    },
+    "stars": 0,
+    "is_flatten": false,
+    "updated_at": "2026-09-11T14:39:11.425Z",
+    "created_at": "2026-09-11T14:39:11.425Z"
+}
