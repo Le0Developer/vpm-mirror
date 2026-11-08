@@ -1,25 +1,25 @@
 {
-    "id": 444,
-    "name": "itzilly.mcuuid",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-09-09T09:09:17.000Z",
+        "github_id": 0,
+        "id": 765,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-09-09T09:09:17.000Z",
+        "username": "itzilly"
+    },
+    "created_at": "2023-09-09T12:07:46.000Z",
     "description": "Simple Minecraft IGN/UUID lookup library (Inspired by MCUUID PyPi)",
     "documentation": "",
-    "url": "https://github.com/itzilly/mcuuid-vlang",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 765,
-    "author": {
-        "id": 765,
-        "github_id": 0,
-        "username": "itzilly",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-09-09T09:09:17.000Z",
-        "updated_at": "2023-09-09T09:09:17.000Z"
-    },
-    "stars": 0,
+    "id": 444,
     "is_flatten": false,
+    "name": "itzilly.mcuuid",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-09-09T12:07:46.000Z",
-    "created_at": "2023-09-09T12:07:46.000Z"
+    "url": "https://github.com/itzilly/mcuuid-vlang",
+    "user_id": 765,
+    "vcs": "git"
 }

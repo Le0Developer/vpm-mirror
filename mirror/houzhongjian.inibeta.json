@@ -1,25 +1,25 @@
 {
-    "id": 626,
-    "name": "houzhongjian.inibeta",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2025-06-26T06:14:24.000Z",
+        "github_id": 0,
+        "id": 1846,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2025-06-26T06:14:24.000Z",
+        "username": "houzhongjian"
+    },
+    "created_at": "2025-06-26T06:15:39.000Z",
     "description": "ini",
     "documentation": "",
-    "url": "https://github.com/houzhongjian/ini-beta",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1846,
-    "author": {
-        "id": 1846,
-        "github_id": 0,
-        "username": "houzhongjian",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2025-06-26T06:14:24.000Z",
-        "updated_at": "2025-06-26T06:14:24.000Z"
-    },
-    "stars": 0,
+    "id": 626,
     "is_flatten": false,
+    "name": "houzhongjian.inibeta",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-06-26T06:15:39.000Z",
-    "created_at": "2025-06-26T06:15:39.000Z"
+    "url": "https://github.com/houzhongjian/ini-beta",
+    "user_id": 1846,
+    "vcs": "git"
 }

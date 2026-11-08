@@ -1,25 +1,25 @@
 {
-    "id": 580,
-    "name": "diniig.calc",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2024-09-29T10:57:34.000Z",
+        "github_id": 0,
+        "id": 1408,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2024-09-29T10:57:34.000Z",
+        "username": "diniig"
+    },
+    "created_at": "2024-09-29T11:23:07.000Z",
     "description": "package test\r\ndont use it",
     "documentation": "",
-    "url": "https://github.com/diniig/calc",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1408,
-    "author": {
-        "id": 1408,
-        "github_id": 0,
-        "username": "diniig",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2024-09-29T10:57:34.000Z",
-        "updated_at": "2024-09-29T10:57:34.000Z"
-    },
-    "stars": 0,
+    "id": 580,
     "is_flatten": false,
+    "name": "diniig.calc",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2024-09-29T11:23:07.000Z",
-    "created_at": "2024-09-29T11:23:07.000Z"
+    "url": "https://github.com/diniig/calc",
+    "user_id": 1408,
+    "vcs": "git"
 }

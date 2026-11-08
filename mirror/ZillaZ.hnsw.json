@@ -1,25 +1,25 @@
 {
-    "id": 715,
-    "name": "ZillaZ.hnsw",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-05-25T14:09:57.000Z",
+        "github_id": 0,
+        "id": 2151,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-05-25T14:09:57.000Z",
+        "username": "ZillaZ"
+    },
+    "created_at": "2026-05-25T14:12:00.000Z",
     "description": "HNSW V Implementation",
     "documentation": "",
-    "url": "https://github.com/ZillaZ/v-hnsw",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 2151,
-    "author": {
-        "id": 2151,
-        "github_id": 0,
-        "username": "ZillaZ",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2026-05-25T14:09:57.000Z",
-        "updated_at": "2026-05-25T14:09:57.000Z"
-    },
-    "stars": 0,
+    "id": 715,
     "is_flatten": false,
+    "name": "ZillaZ.hnsw",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-05-25T14:12:00.000Z",
-    "created_at": "2026-05-25T14:12:00.000Z"
+    "url": "https://github.com/ZillaZ/v-hnsw",
+    "user_id": 2151,
+    "vcs": "git"
 }

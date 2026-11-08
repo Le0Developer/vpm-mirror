@@ -1,25 +1,25 @@
 {
-    "id": 205,
-    "name": "nedpals.vpkg",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "github_id": 0,
+        "id": 138,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:31.000Z",
+        "username": "nedpals"
+    },
+    "created_at": "2023-05-07T14:06:31.000Z",
     "description": "",
     "documentation": "",
-    "url": "https://github.com/vpkg-project/vpkg",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 138,
-    "author": {
-        "id": 138,
-        "github_id": 0,
-        "username": "nedpals",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:31.000Z",
-        "updated_at": "2023-05-07T14:06:31.000Z"
-    },
-    "stars": 0,
+    "id": 205,
     "is_flatten": false,
+    "name": "nedpals.vpkg",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-05-07T14:06:31.000Z",
-    "created_at": "2023-05-07T14:06:31.000Z"
+    "url": "https://github.com/vpkg-project/vpkg",
+    "user_id": 138,
+    "vcs": "git"
 }

@@ -1,25 +1,25 @@
 {
-    "id": 599,
-    "name": "JaphetSamuel.vsash",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2025-02-12T20:18:08.000Z",
+        "github_id": 0,
+        "id": 1700,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2025-02-12T20:18:08.000Z",
+        "username": "JaphetSamuel"
+    },
+    "created_at": "2025-02-12T20:19:51.000Z",
     "description": "A simple SSH host manager for V in cli",
     "documentation": "",
-    "url": "https://github.com/JaphetSamuel/vsash",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1700,
-    "author": {
-        "id": 1700,
-        "github_id": 0,
-        "username": "JaphetSamuel",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2025-02-12T20:18:08.000Z",
-        "updated_at": "2025-02-12T20:18:08.000Z"
-    },
-    "stars": 0,
+    "id": 599,
     "is_flatten": false,
+    "name": "JaphetSamuel.vsash",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-02-12T20:19:51.000Z",
-    "created_at": "2025-02-12T20:19:51.000Z"
+    "url": "https://github.com/JaphetSamuel/vsash",
+    "user_id": 1700,
+    "vcs": "git"
 }

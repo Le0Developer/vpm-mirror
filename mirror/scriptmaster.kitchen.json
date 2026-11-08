@@ -1,25 +1,25 @@
 {
-    "id": 495,
-    "name": "scriptmaster.kitchen",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-12-16T20:33:53.000Z",
+        "github_id": 0,
+        "id": 1027,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-12-16T20:33:53.000Z",
+        "username": "scriptmaster"
+    },
+    "created_at": "2023-12-17T00:34:07.000Z",
     "description": "Kitchen: sync / rsync / watchexec program that runs a command on source or text file changes. Ignores common binary extensions and common binary/package dirs.",
     "documentation": "",
-    "url": "https://github.com/scriptmaster/kitchen",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1027,
-    "author": {
-        "id": 1027,
-        "github_id": 0,
-        "username": "scriptmaster",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-12-16T20:33:53.000Z",
-        "updated_at": "2023-12-16T20:33:53.000Z"
-    },
-    "stars": 0,
+    "id": 495,
     "is_flatten": false,
+    "name": "scriptmaster.kitchen",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-12-17T00:34:07.000Z",
-    "created_at": "2023-12-17T00:34:07.000Z"
+    "url": "https://github.com/scriptmaster/kitchen",
+    "user_id": 1027,
+    "vcs": "git"
 }

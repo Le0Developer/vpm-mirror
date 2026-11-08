@@ -1,25 +1,25 @@
 {
-    "id": 527,
-    "name": "nikeedev.scratchy",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-06-02T21:51:38.000Z",
+        "github_id": 0,
+        "id": 559,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-06-02T21:51:38.000Z",
+        "username": "nikeedev"
+    },
+    "created_at": "2024-03-19T16:25:43.000Z",
     "description": "Scratchy - Get Scratch info about users or projects\r\nUsing Scratch API for getting information about a user or a project\r\n\r\nAlso using Scratch's session server, you can login using a token (that will be retrieved trough the session server, to get more info like if you're a new Scratcher, or if you are banned (but are you...?)",
     "documentation": "",
-    "url": "https://github.com/nikeedev/scratchy",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 559,
-    "author": {
-        "id": 559,
-        "github_id": 0,
-        "username": "nikeedev",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-06-02T21:51:38.000Z",
-        "updated_at": "2023-06-02T21:51:38.000Z"
-    },
-    "stars": 0,
+    "id": 527,
     "is_flatten": false,
+    "name": "nikeedev.scratchy",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2024-03-19T16:25:43.000Z",
-    "created_at": "2024-03-19T16:25:43.000Z"
+    "url": "https://github.com/nikeedev/scratchy",
+    "user_id": 559,
+    "vcs": "git"
 }

@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-10-13T01:18:45.070Z",
+        "github_id": 0,
+        "id": 2287,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-10-13T01:18:45.070Z",
+        "username": "five07"
+    },
+    "created_at": "2026-10-15T17:26:52.816Z",
+    "description": "An OTel package to add telemetry to your app or service.",
+    "documentation": "",
+    "id": 769,
+    "is_flatten": false,
+    "name": "five07.otel",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-10-15T17:26:52.816Z",
+    "url": "https://github.com/five07/otel",
+    "user_id": 2287,
+    "vcs": "git"
+}

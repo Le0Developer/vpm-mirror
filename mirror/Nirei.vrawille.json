@@ -1,25 +1,25 @@
 {
-    "id": 656,
-    "name": "Nirei.vrawille",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2025-09-27T12:15:06.000Z",
+        "github_id": 0,
+        "id": 1918,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2025-09-27T12:15:06.000Z",
+        "username": "Nirei"
+    },
+    "created_at": "2025-09-27T12:15:45.000Z",
     "description": "Small library to draw graphics on a terminal using Braille characters.",
     "documentation": "",
-    "url": "https://github.com/Nirei/vrawille",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1918,
-    "author": {
-        "id": 1918,
-        "github_id": 0,
-        "username": "Nirei",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2025-09-27T12:15:06.000Z",
-        "updated_at": "2025-09-27T12:15:06.000Z"
-    },
-    "stars": 0,
+    "id": 656,
     "is_flatten": false,
+    "name": "Nirei.vrawille",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-09-27T12:15:45.000Z",
-    "created_at": "2025-09-27T12:15:45.000Z"
+    "url": "https://github.com/Nirei/vrawille",
+    "user_id": 1918,
+    "vcs": "git"
 }

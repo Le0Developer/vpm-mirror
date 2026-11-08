@@ -1,25 +1,25 @@
 {
-    "id": 657,
-    "name": "khalyomede.lang",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:30.000Z",
+        "github_id": 0,
+        "id": 18,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:30.000Z",
+        "username": "khalyomede"
+    },
+    "created_at": "2025-10-02T20:47:22.000Z",
     "description": "A 2/3 letter code compatible lang enum.",
     "documentation": "",
-    "url": "https://github.com/khalyomede/lang",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 18,
-    "author": {
-        "id": 18,
-        "github_id": 0,
-        "username": "khalyomede",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:30.000Z",
-        "updated_at": "2023-05-07T14:06:30.000Z"
-    },
-    "stars": 0,
+    "id": 657,
     "is_flatten": false,
+    "name": "khalyomede.lang",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-10-02T20:47:22.000Z",
-    "created_at": "2025-10-02T20:47:22.000Z"
+    "url": "https://github.com/khalyomede/lang",
+    "user_id": 18,
+    "vcs": "git"
 }

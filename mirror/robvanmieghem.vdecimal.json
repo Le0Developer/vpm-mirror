@@ -1,25 +1,25 @@
 {
-    "id": 382,
-    "name": "robvanmieghem.vdecimal",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-06-05T11:32:16.000Z",
+        "github_id": 0,
+        "id": 571,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-06-05T11:32:16.000Z",
+        "username": "robvanmieghem"
+    },
+    "created_at": "2023-06-05T13:40:33.000Z",
     "description": "Arbitrary-precision fixed-point decimal numbers",
     "documentation": "",
-    "url": "https://github.com/robvanmieghem/vdecimal",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 571,
-    "author": {
-        "id": 571,
-        "github_id": 0,
-        "username": "robvanmieghem",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-06-05T11:32:16.000Z",
-        "updated_at": "2023-06-05T11:32:16.000Z"
-    },
-    "stars": 0,
+    "id": 382,
     "is_flatten": false,
+    "name": "robvanmieghem.vdecimal",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-06-05T13:40:33.000Z",
-    "created_at": "2023-06-05T13:40:33.000Z"
+    "url": "https://github.com/robvanmieghem/vdecimal",
+    "user_id": 571,
+    "vcs": "git"
 }

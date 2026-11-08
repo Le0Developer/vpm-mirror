@@ -1,25 +1,25 @@
 {
-    "id": 161,
-    "name": "despiegk.crystallib",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "github_id": 0,
+        "id": 168,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:31.000Z",
+        "username": "despiegk"
+    },
+    "created_at": "2023-05-07T14:06:31.000Z",
     "description": "",
     "documentation": "",
-    "url": "https://github.com/crystaluniverse/crystallib",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 168,
-    "author": {
-        "id": 168,
-        "github_id": 0,
-        "username": "despiegk",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:31.000Z",
-        "updated_at": "2023-05-07T14:06:31.000Z"
-    },
-    "stars": 0,
+    "id": 161,
     "is_flatten": false,
+    "name": "despiegk.crystallib",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-05-07T14:06:31.000Z",
-    "created_at": "2023-05-07T14:06:31.000Z"
+    "url": "https://github.com/crystaluniverse/crystallib",
+    "user_id": 168,
+    "vcs": "git"
 }

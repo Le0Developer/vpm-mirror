@@ -1,25 +1,25 @@
 {
-    "id": 364,
-    "name": "srackham.rimu",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "github_id": 0,
+        "id": 371,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:31.000Z",
+        "username": "srackham"
+    },
+    "created_at": "2023-05-07T14:06:31.000Z",
     "description": "",
     "documentation": "",
-    "url": "https://github.com/srackham/v-rimu",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 371,
-    "author": {
-        "id": 371,
-        "github_id": 0,
-        "username": "srackham",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:31.000Z",
-        "updated_at": "2023-05-07T14:06:31.000Z"
-    },
-    "stars": 0,
+    "id": 364,
     "is_flatten": false,
+    "name": "srackham.rimu",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-05-07T14:06:31.000Z",
-    "created_at": "2023-05-07T14:06:31.000Z"
+    "url": "https://github.com/srackham/v-rimu",
+    "user_id": 371,
+    "vcs": "git"
 }

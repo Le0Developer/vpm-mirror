@@ -1,25 +1,25 @@
 {
-    "id": 756,
-    "name": "antono2.minimp4",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2024-10-01T20:22:59.000Z",
+        "github_id": 0,
+        "id": 1444,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2024-10-01T20:22:59.000Z",
+        "username": "antono2"
+    },
+    "created_at": "2026-09-07T16:00:23.803Z",
     "description": "Low-level minimp4 bindings for V covering MP4 demuxing, muxing, timestamps, and AVC metadata.",
     "documentation": "",
-    "url": "https://github.com/antono2/minimp4",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1444,
-    "author": {
-        "id": 1444,
-        "github_id": 0,
-        "username": "antono2",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2024-10-01T20:22:59.000Z",
-        "updated_at": "2024-10-01T20:22:59.000Z"
-    },
-    "stars": 0,
+    "id": 756,
     "is_flatten": false,
+    "name": "antono2.minimp4",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-09-07T16:00:23.803Z",
-    "created_at": "2026-09-07T16:00:23.803Z"
+    "url": "https://github.com/antono2/minimp4",
+    "user_id": 1444,
+    "vcs": "git"
 }

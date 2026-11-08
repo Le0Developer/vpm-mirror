@@ -1,25 +1,25 @@
 {
-    "id": 675,
-    "name": "Freeboardtortoise.vcurses",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2025-12-04T09:38:49.000Z",
+        "github_id": 0,
+        "id": 1991,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2025-12-04T09:38:49.000Z",
+        "username": "Freeboardtortoise"
+    },
+    "created_at": "2025-12-04T09:40:05.000Z",
     "description": "A fully native TUI package for the V programming language\r\n",
     "documentation": "",
-    "url": "https://github.com/Freeboardtortoise/Vcurses",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1991,
-    "author": {
-        "id": 1991,
-        "github_id": 0,
-        "username": "Freeboardtortoise",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2025-12-04T09:38:49.000Z",
-        "updated_at": "2025-12-04T09:38:49.000Z"
-    },
-    "stars": 0,
+    "id": 675,
     "is_flatten": false,
+    "name": "Freeboardtortoise.vcurses",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-12-04T09:40:05.000Z",
-    "created_at": "2025-12-04T09:40:05.000Z"
+    "url": "https://github.com/Freeboardtortoise/Vcurses",
+    "user_id": 1991,
+    "vcs": "git"
 }

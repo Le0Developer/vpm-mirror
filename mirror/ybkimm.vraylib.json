@@ -1,25 +1,25 @@
 {
-    "id": 510,
-    "name": "ybkimm.vraylib",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2024-01-17T00:25:01.000Z",
+        "github_id": 0,
+        "id": 1091,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2024-01-17T00:25:01.000Z",
+        "username": "ybkimm"
+    },
+    "created_at": "2024-01-21T16:58:23.000Z",
     "description": " Raylib wrapper for vlang",
     "documentation": "",
-    "url": "https://github.com/ybkimm/vraylib",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1091,
-    "author": {
-        "id": 1091,
-        "github_id": 0,
-        "username": "ybkimm",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2024-01-17T00:25:01.000Z",
-        "updated_at": "2024-01-17T00:25:01.000Z"
-    },
-    "stars": 0,
+    "id": 510,
     "is_flatten": false,
+    "name": "ybkimm.vraylib",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2024-01-21T16:58:23.000Z",
-    "created_at": "2024-01-21T16:58:23.000Z"
+    "url": "https://github.com/ybkimm/vraylib",
+    "user_id": 1091,
+    "vcs": "git"
 }

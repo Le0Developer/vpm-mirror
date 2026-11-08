@@ -1,25 +1,25 @@
 {
-    "id": 642,
-    "name": "gechandesu.xmlencoder",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2024-12-24T05:17:21.000Z",
+        "github_id": 0,
+        "id": 1619,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2024-12-24T05:17:21.000Z",
+        "username": "gechandesu"
+    },
+    "created_at": "2025-08-02T23:14:53.000Z",
     "description": " An experimental XML encoder for V",
     "documentation": "",
-    "url": "https://github.com/gechandesu/xmlencoder",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1619,
-    "author": {
-        "id": 1619,
-        "github_id": 0,
-        "username": "gechandesu",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2024-12-24T05:17:21.000Z",
-        "updated_at": "2024-12-24T05:17:21.000Z"
-    },
-    "stars": 0,
+    "id": 642,
     "is_flatten": false,
+    "name": "gechandesu.xmlencoder",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-08-02T23:14:53.000Z",
-    "created_at": "2025-08-02T23:14:53.000Z"
+    "url": "https://github.com/gechandesu/xmlencoder",
+    "user_id": 1619,
+    "vcs": "git"
 }

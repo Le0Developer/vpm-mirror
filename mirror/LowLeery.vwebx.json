@@ -1,25 +1,25 @@
 {
-    "id": 620,
-    "name": "LowLeery.vwebx",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2025-06-10T10:44:49.000Z",
+        "github_id": 0,
+        "id": 1833,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2025-06-10T10:44:49.000Z",
+        "username": "LowLeery"
+    },
+    "created_at": "2025-06-10T10:45:26.000Z",
     "description": "A modern, fast, and flexible web framework for the V programming language",
     "documentation": "",
-    "url": "https://github.com/LowLeery/vwebx",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1833,
-    "author": {
-        "id": 1833,
-        "github_id": 0,
-        "username": "LowLeery",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2025-06-10T10:44:49.000Z",
-        "updated_at": "2025-06-10T10:44:49.000Z"
-    },
-    "stars": 0,
+    "id": 620,
     "is_flatten": false,
+    "name": "LowLeery.vwebx",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-06-10T10:45:26.000Z",
-    "created_at": "2025-06-10T10:45:26.000Z"
+    "url": "https://github.com/LowLeery/vwebx",
+    "user_id": 1833,
+    "vcs": "git"
 }

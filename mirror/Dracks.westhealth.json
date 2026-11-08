@@ -1,25 +1,25 @@
 {
-    "id": 434,
-    "name": "Dracks.westhealth",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "github_id": 0,
+        "id": 375,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:31.000Z",
+        "username": "Dracks"
+    },
+    "created_at": "2023-08-19T07:08:44.000Z",
     "description": "A west module to get the health endpoint out of the box\r\n\r\nEndpoints implemented:\r\n/.well-known/live\r\n/.well-known/ready",
     "documentation": "",
-    "url": "https://github.com/Dracks/west_health",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 375,
-    "author": {
-        "id": 375,
-        "github_id": 0,
-        "username": "Dracks",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:31.000Z",
-        "updated_at": "2023-05-07T14:06:31.000Z"
-    },
-    "stars": 0,
+    "id": 434,
     "is_flatten": false,
+    "name": "Dracks.westhealth",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-08-19T07:08:44.000Z",
-    "created_at": "2023-08-19T07:08:44.000Z"
+    "url": "https://github.com/Dracks/west_health",
+    "user_id": 375,
+    "vcs": "git"
 }

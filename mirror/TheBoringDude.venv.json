@@ -1,25 +1,25 @@
 {
-    "id": 71,
-    "name": "TheBoringDude.venv",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:30.000Z",
+        "github_id": 0,
+        "id": 78,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:30.000Z",
+        "username": "TheBoringDude"
+    },
+    "created_at": "2023-05-07T14:06:30.000Z",
     "description": "",
     "documentation": "",
-    "url": "https://github.com/TheBoringDude/venv",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 78,
-    "author": {
-        "id": 78,
-        "github_id": 0,
-        "username": "TheBoringDude",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:30.000Z",
-        "updated_at": "2023-05-07T14:06:30.000Z"
-    },
-    "stars": 0,
+    "id": 71,
     "is_flatten": false,
+    "name": "TheBoringDude.venv",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-05-07T14:06:30.000Z",
-    "created_at": "2023-05-07T14:06:30.000Z"
+    "url": "https://github.com/TheBoringDude/venv",
+    "user_id": 78,
+    "vcs": "git"
 }

@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-11-01T22:53:51.720Z",
+        "github_id": 0,
+        "id": 2323,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-11-01T22:53:51.720Z",
+        "username": "gil-silva"
+    },
+    "created_at": "2026-11-02T14:30:52.907Z",
+    "description": "\"Who uses this?\" — static use-site queries over a V codebase: definitions, callers, and interface implementations, all as plain data, from one deterministic scan.",
+    "documentation": "",
+    "id": 777,
+    "is_flatten": false,
+    "name": "gil-silva.vuses",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-11-02T14:30:52.907Z",
+    "url": "https://github.com/gil-silva/vuses",
+    "user_id": 2323,
+    "vcs": "git"
+}

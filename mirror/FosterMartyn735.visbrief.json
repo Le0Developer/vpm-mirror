@@ -1,25 +1,25 @@
 {
-    "id": 735,
-    "name": "FosterMartyn735.visbrief",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-07-29T17:22:15.000Z",
+        "github_id": 0,
+        "id": 2199,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-07-29T17:22:15.000Z",
+        "username": "FosterMartyn735"
+    },
+    "created_at": "2026-07-29T17:32:10.000Z",
     "description": "Dependency-free V validation helpers for image and video visual briefs, including dimensions, domains, alt text, and aspect ratios.",
     "documentation": "",
-    "url": "https://github.com/FosterMartyn735/visbrief",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 2199,
-    "author": {
-        "id": 2199,
-        "github_id": 0,
-        "username": "FosterMartyn735",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2026-07-29T17:22:15.000Z",
-        "updated_at": "2026-07-29T17:22:15.000Z"
-    },
-    "stars": 0,
+    "id": 735,
     "is_flatten": false,
+    "name": "FosterMartyn735.visbrief",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-07-29T17:32:10.000Z",
-    "created_at": "2026-07-29T17:32:10.000Z"
+    "url": "https://github.com/FosterMartyn735/visbrief",
+    "user_id": 2199,
+    "vcs": "git"
 }

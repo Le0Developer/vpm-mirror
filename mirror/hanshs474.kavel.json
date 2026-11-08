@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-10-16T18:46:06.489Z",
+        "github_id": 0,
+        "id": 2306,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-10-16T18:46:06.489Z",
+        "username": "hanshs474"
+    },
+    "created_at": "2026-10-16T18:47:13.372Z",
+    "description": "Kavel is a free AI video generator and AI image generator. Generate an AI image from V with one function, standard library only; no key needed for a first try.",
+    "documentation": "",
+    "id": 770,
+    "is_flatten": false,
+    "name": "hanshs474.kavel",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-10-16T18:47:13.372Z",
+    "url": "https://github.com/hanshs474/kavel-v",
+    "user_id": 2306,
+    "vcs": "git"
+}

@@ -1,25 +1,25 @@
 {
-    "id": 130,
-    "name": "eggbit.dice",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "github_id": 0,
+        "id": 137,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:31.000Z",
+        "username": "eggbit"
+    },
+    "created_at": "2023-05-07T14:06:31.000Z",
     "description": "",
     "documentation": "",
-    "url": "https://github.com/eggbit/dice",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 137,
-    "author": {
-        "id": 137,
-        "github_id": 0,
-        "username": "eggbit",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:31.000Z",
-        "updated_at": "2023-05-07T14:06:31.000Z"
-    },
-    "stars": 0,
+    "id": 130,
     "is_flatten": false,
+    "name": "eggbit.dice",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-05-07T14:06:31.000Z",
-    "created_at": "2023-05-07T14:06:31.000Z"
+    "url": "https://github.com/eggbit/dice",
+    "user_id": 137,
+    "vcs": "git"
 }

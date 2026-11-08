@@ -1,25 +1,25 @@
 {
-    "id": 731,
-    "name": "Tuntii.Viltrum",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-07-18T05:50:57.000Z",
+        "github_id": 0,
+        "id": 2186,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-07-18T05:50:57.000Z",
+        "username": "Tuntii"
+    },
+    "created_at": "2026-07-18T07:01:44.000Z",
     "description": "HTTP framework for the V language. Own TCP/HTTP engine, tiny API, single binary",
     "documentation": "",
-    "url": "https://github.com/Tuntii/viltrum",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 2186,
-    "author": {
-        "id": 2186,
-        "github_id": 0,
-        "username": "Tuntii",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2026-07-18T05:50:57.000Z",
-        "updated_at": "2026-07-18T05:50:57.000Z"
-    },
-    "stars": 0,
+    "id": 731,
     "is_flatten": false,
+    "name": "Tuntii.Viltrum",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-07-18T07:01:44.000Z",
-    "created_at": "2026-07-18T07:01:44.000Z"
+    "url": "https://github.com/Tuntii/viltrum",
+    "user_id": 2186,
+    "vcs": "git"
 }

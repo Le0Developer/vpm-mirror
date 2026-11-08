@@ -1,25 +1,25 @@
 {
-    "id": 617,
-    "name": "Linklancien.playint",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2025-05-22T20:52:55.000Z",
+        "github_id": 0,
+        "id": 1810,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2025-05-22T20:52:55.000Z",
+        "username": "Linklancien"
+    },
+    "created_at": "2025-05-22T21:12:20.000Z",
     "description": "A V module that manage the link between a key and it's action, also provide boutons.\r\n\r\nIt allows the change of the keybinds dynamically.\r\n\r\nuse v install Linklancien.playint to download this module and then import linklancien.playint in your .v file to use it. It use the module gg.",
     "documentation": "",
-    "url": "https://github.com/Linklancien/vplayint",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1810,
-    "author": {
-        "id": 1810,
-        "github_id": 0,
-        "username": "Linklancien",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2025-05-22T20:52:55.000Z",
-        "updated_at": "2025-05-22T20:52:55.000Z"
-    },
-    "stars": 0,
+    "id": 617,
     "is_flatten": false,
+    "name": "Linklancien.playint",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-05-22T21:12:20.000Z",
-    "created_at": "2025-05-22T21:12:20.000Z"
+    "url": "https://github.com/Linklancien/vplayint",
+    "user_id": 1810,
+    "vcs": "git"
 }

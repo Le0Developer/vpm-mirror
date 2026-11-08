@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-11-01T22:53:51.720Z",
+        "github_id": 0,
+        "id": 2323,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-11-01T22:53:51.720Z",
+        "username": "gil-silva"
+    },
+    "created_at": "2026-11-04T01:12:24.164Z",
+    "description": "ChaCha20-Poly1305 authenticated encryption with associated data (RFC 8439), in pure V.\r\n\r\nNo unsafe blocks, no C interop: the ChaCha20 permutation, the Poly1305 message authentication code (including its 2^130 - 5 modular reduction) and the AEAD construction are implemented directly from the specification, and every fallible path returns a V result.",
+    "documentation": "",
+    "id": 787,
+    "is_flatten": false,
+    "name": "gil-silva.chacha20po",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-11-04T01:12:24.164Z",
+    "url": "https://github.com/gil-silva/chacha20poly1305",
+    "user_id": 2323,
+    "vcs": "git"
+}

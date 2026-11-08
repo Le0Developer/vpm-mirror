@@ -1,25 +1,25 @@
 {
-    "id": 615,
-    "name": "mi7chal.redisipc",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2025-04-18T12:53:12.000Z",
+        "github_id": 0,
+        "id": 1778,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2025-04-18T12:53:12.000Z",
+        "username": "mi7chal"
+    },
+    "created_at": "2025-05-01T20:29:34.000Z",
     "description": "Simple package for inter-process and service-to-service communication based on redis",
     "documentation": "",
-    "url": "https://github.com/mi7chal/redis-ipc-vlang",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1778,
-    "author": {
-        "id": 1778,
-        "github_id": 0,
-        "username": "mi7chal",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2025-04-18T12:53:12.000Z",
-        "updated_at": "2025-04-18T12:53:12.000Z"
-    },
-    "stars": 0,
+    "id": 615,
     "is_flatten": false,
+    "name": "mi7chal.redisipc",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-05-01T20:29:34.000Z",
-    "created_at": "2025-05-01T20:29:34.000Z"
+    "url": "https://github.com/mi7chal/redis-ipc-vlang",
+    "user_id": 1778,
+    "vcs": "git"
 }

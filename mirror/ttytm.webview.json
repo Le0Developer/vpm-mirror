@@ -1,25 +1,25 @@
 {
-    "id": 415,
-    "name": "ttytm.webview",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-07-26T16:59:30.000Z",
+        "github_id": 0,
+        "id": 674,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-07-26T16:59:30.000Z",
+        "username": "ttytm"
+    },
+    "created_at": "2023-08-02T15:04:31.000Z",
     "description": "V binding for webview - a tiny cross-platform library to build modern cross-platform GUI applications.\r\n",
     "documentation": "",
-    "url": "https://github.com/ttytm/webview",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 674,
-    "author": {
-        "id": 674,
-        "github_id": 0,
-        "username": "ttytm",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-07-26T16:59:30.000Z",
-        "updated_at": "2023-07-26T16:59:30.000Z"
-    },
-    "stars": 0,
+    "id": 415,
     "is_flatten": false,
+    "name": "ttytm.webview",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-08-02T15:04:31.000Z",
-    "created_at": "2023-08-02T15:04:31.000Z"
+    "url": "https://github.com/ttytm/webview",
+    "user_id": 674,
+    "vcs": "git"
 }

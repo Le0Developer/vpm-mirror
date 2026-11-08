@@ -1,25 +1,25 @@
 {
-    "id": 405,
-    "name": "RetroRick.VOptional",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-07-05T22:16:47.000Z",
+        "github_id": 0,
+        "id": 642,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-07-05T22:16:47.000Z",
+        "username": "RetroRick"
+    },
+    "created_at": "2023-07-05T22:17:39.000Z",
     "description": "Simple wrapper around type to allow is an a optional value",
     "documentation": "",
-    "url": "https://github.com/RetroRick/VOptional",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 642,
-    "author": {
-        "id": 642,
-        "github_id": 0,
-        "username": "RetroRick",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-07-05T22:16:47.000Z",
-        "updated_at": "2023-07-05T22:16:47.000Z"
-    },
-    "stars": 0,
+    "id": 405,
     "is_flatten": false,
+    "name": "RetroRick.VOptional",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-07-05T22:17:39.000Z",
-    "created_at": "2023-07-05T22:17:39.000Z"
+    "url": "https://github.com/RetroRick/VOptional",
+    "user_id": 642,
+    "vcs": "git"
 }

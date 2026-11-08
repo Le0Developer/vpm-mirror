@@ -1,25 +1,25 @@
 {
-    "id": 414,
-    "name": "ttytm.bartender",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-07-26T16:59:30.000Z",
+        "github_id": 0,
+        "id": 674,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-07-26T16:59:30.000Z",
+        "username": "ttytm"
+    },
+    "created_at": "2023-07-26T17:01:29.000Z",
     "description": "Customizable progress indicators for V terminal applications.",
     "documentation": "",
-    "url": "https://github.com/ttytm/bartender",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 674,
-    "author": {
-        "id": 674,
-        "github_id": 0,
-        "username": "ttytm",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-07-26T16:59:30.000Z",
-        "updated_at": "2023-07-26T16:59:30.000Z"
-    },
-    "stars": 0,
+    "id": 414,
     "is_flatten": false,
+    "name": "ttytm.bartender",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-07-26T17:01:29.000Z",
-    "created_at": "2023-07-26T17:01:29.000Z"
+    "url": "https://github.com/ttytm/bartender",
+    "user_id": 674,
+    "vcs": "git"
 }

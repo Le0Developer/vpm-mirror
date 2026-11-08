@@ -1,25 +1,25 @@
 {
-    "id": 506,
-    "name": "silent8901.vdecimal",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2024-01-15T09:41:01.000Z",
+        "github_id": 0,
+        "id": 1086,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2024-01-15T09:41:01.000Z",
+        "username": "silent8901"
+    },
+    "created_at": "2024-01-15T09:41:39.000Z",
     "description": "decimal",
     "documentation": "",
-    "url": "https://github.com/silent8901/vdecimal",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1086,
-    "author": {
-        "id": 1086,
-        "github_id": 0,
-        "username": "silent8901",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2024-01-15T09:41:01.000Z",
-        "updated_at": "2024-01-15T09:41:01.000Z"
-    },
-    "stars": 0,
+    "id": 506,
     "is_flatten": false,
+    "name": "silent8901.vdecimal",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2024-01-15T09:41:39.000Z",
-    "created_at": "2024-01-15T09:41:39.000Z"
+    "url": "https://github.com/silent8901/vdecimal",
+    "user_id": 1086,
+    "vcs": "git"
 }

@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-11-01T22:53:51.720Z",
+        "github_id": 0,
+        "id": 2323,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-11-01T22:53:51.720Z",
+        "username": "gil-silva"
+    },
+    "created_at": "2026-11-04T01:09:48.057Z",
+    "description": "X25519 Diffie-Hellman scalar multiplication over Curve25519 (RFC 7748), in pure V.\r\n\r\nNo unsafe blocks, no C interop: the Montgomery ladder and the field arithmetic are implemented directly from the specification, and every fallible path returns a V result.",
+    "documentation": "",
+    "id": 786,
+    "is_flatten": false,
+    "name": "gil-silva.x25519",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-11-04T01:09:48.057Z",
+    "url": "https://github.com/gil-silva/x25519",
+    "user_id": 2323,
+    "vcs": "git"
+}

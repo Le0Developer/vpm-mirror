@@ -1,25 +1,25 @@
 {
-    "id": 425,
-    "name": "islonely.cpuid",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:30.000Z",
+        "github_id": 0,
+        "id": 26,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:30.000Z",
+        "username": "islonely"
+    },
+    "created_at": "2023-08-12T20:42:25.000Z",
     "description": "Get information about the system CPU.",
     "documentation": "",
-    "url": "https://github.com/islonely/cpuid",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 26,
-    "author": {
-        "id": 26,
-        "github_id": 0,
-        "username": "islonely",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:30.000Z",
-        "updated_at": "2023-05-07T14:06:30.000Z"
-    },
-    "stars": 0,
+    "id": 425,
     "is_flatten": false,
+    "name": "islonely.cpuid",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-08-12T20:42:25.000Z",
-    "created_at": "2023-08-12T20:42:25.000Z"
+    "url": "https://github.com/islonely/cpuid",
+    "user_id": 26,
+    "vcs": "git"
 }

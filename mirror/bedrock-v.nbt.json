@@ -1,25 +1,25 @@
 {
-    "id": 748,
-    "name": "bedrock-v.nbt",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-06-13T18:09:55.000Z",
+        "github_id": 0,
+        "id": 2165,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-06-13T18:09:55.000Z",
+        "username": "nepinhum"
+    },
+    "created_at": "2026-08-31T09:09:39.359Z",
     "description": "NBT library for Minecraft: Bedrock Edition written in V.",
     "documentation": "",
-    "url": "https://github.com/bedrock-v/nbt",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 2165,
-    "author": {
-        "id": 2165,
-        "github_id": 0,
-        "username": "nepinhum",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2026-06-13T18:09:55.000Z",
-        "updated_at": "2026-06-13T18:09:55.000Z"
-    },
-    "stars": 0,
+    "id": 748,
     "is_flatten": false,
+    "name": "bedrock-v.nbt",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-08-31T09:09:39.359Z",
-    "created_at": "2026-08-31T09:09:39.359Z"
+    "url": "https://github.com/bedrock-v/nbt",
+    "user_id": 2165,
+    "vcs": "git"
 }

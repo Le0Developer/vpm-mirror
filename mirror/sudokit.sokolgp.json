@@ -1,25 +1,25 @@
 {
-    "id": 551,
-    "name": "sudokit.sokolgp",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2024-07-23T19:40:04.000Z",
+        "github_id": 0,
+        "id": 1315,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2024-07-23T19:40:04.000Z",
+        "username": "sudokit"
+    },
+    "created_at": "2024-07-23T19:40:37.000Z",
     "description": "A SokolGP wrapper for V",
     "documentation": "",
-    "url": "https://github.com/sudokit/v_sokol_gp",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1315,
-    "author": {
-        "id": 1315,
-        "github_id": 0,
-        "username": "sudokit",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2024-07-23T19:40:04.000Z",
-        "updated_at": "2024-07-23T19:40:04.000Z"
-    },
-    "stars": 0,
+    "id": 551,
     "is_flatten": false,
+    "name": "sudokit.sokolgp",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2024-07-23T19:40:37.000Z",
-    "created_at": "2024-07-23T19:40:37.000Z"
+    "url": "https://github.com/sudokit/v_sokol_gp",
+    "user_id": 1315,
+    "vcs": "git"
 }

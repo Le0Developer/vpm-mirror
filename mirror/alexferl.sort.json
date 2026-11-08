@@ -1,25 +1,25 @@
 {
-    "id": 407,
-    "name": "alexferl.sort",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "github_id": 0,
+        "id": 342,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:31.000Z",
+        "username": "alexferl"
+    },
+    "created_at": "2023-07-10T02:45:34.000Z",
     "description": "A port of Go's sort package to V",
     "documentation": "",
-    "url": "https://github.com/alexferl/sort",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 342,
-    "author": {
-        "id": 342,
-        "github_id": 0,
-        "username": "alexferl",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:31.000Z",
-        "updated_at": "2023-05-07T14:06:31.000Z"
-    },
-    "stars": 0,
+    "id": 407,
     "is_flatten": false,
+    "name": "alexferl.sort",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-07-10T02:45:34.000Z",
-    "created_at": "2023-07-10T02:45:34.000Z"
+    "url": "https://github.com/alexferl/sort",
+    "user_id": 342,
+    "vcs": "git"
 }

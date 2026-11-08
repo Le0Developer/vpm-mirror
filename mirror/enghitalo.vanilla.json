@@ -1,25 +1,25 @@
 {
-    "id": 609,
-    "name": "enghitalo.vanilla",
-    "description": "Lightweight, fast and not magic Web Ecosystem",
-    "documentation": "",
-    "url": "https://github.com/enghitalo/vanilla",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1757,
     "author": {
-        "id": 1757,
-        "github_id": 0,
-        "username": "enghitalo",
         "avatar_url": "",
-        "is_blocked": false,
         "block_reason": "",
-        "is_admin": false,
         "created_at": "2025-03-31T10:50:25.000Z",
-        "updated_at": "2025-03-31T10:50:25.000Z"
+        "github_id": 0,
+        "id": 1757,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2025-03-31T10:50:25.000Z",
+        "username": "enghitalo"
     },
-    "stars": 0,
+    "created_at": "2025-03-31T10:51:33.000Z",
+    "description": "Lightweight, fast and not magic Web Ecosystem.",
+    "documentation": "",
+    "id": 609,
     "is_flatten": false,
+    "name": "enghitalo.vanilla",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-03-31T10:51:33.000Z",
-    "created_at": "2025-03-31T10:51:33.000Z"
+    "url": "https://github.com/enghitalo/vanilla",
+    "user_id": 1757,
+    "vcs": "git"
 }

@@ -1,25 +1,25 @@
 {
-    "id": 701,
-    "name": "marcalc.vsoup",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-02-28T01:21:24.000Z",
+        "github_id": 0,
+        "id": 2087,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-02-28T01:21:24.000Z",
+        "username": "marcalc"
+    },
+    "created_at": "2026-02-28T01:22:02.000Z",
     "description": "A fast, JSoup-inspired HTML5 parser and DOM manipulation library for powered by [Lexbor](https://lexbor.com)",
     "documentation": "",
-    "url": "https://github.com/marcalc/vsoup",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 2087,
-    "author": {
-        "id": 2087,
-        "github_id": 0,
-        "username": "marcalc",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2026-02-28T01:21:24.000Z",
-        "updated_at": "2026-02-28T01:21:24.000Z"
-    },
-    "stars": 0,
+    "id": 701,
     "is_flatten": false,
+    "name": "marcalc.vsoup",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-02-28T01:22:02.000Z",
-    "created_at": "2026-02-28T01:22:02.000Z"
+    "url": "https://github.com/marcalc/vsoup",
+    "user_id": 2087,
+    "vcs": "git"
 }

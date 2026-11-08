@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:30.000Z",
+        "github_id": 0,
+        "id": 71,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:30.000Z",
+        "username": "ulises-jeremias"
+    },
+    "created_at": "2026-10-14T14:01:38.377Z",
+    "description": "Composable language model application framework for V, targeting LangChain feature parity",
+    "documentation": "",
+    "id": 767,
+    "is_flatten": false,
+    "name": "ulises-jeremias.langchainv",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-10-14T14:01:38.377Z",
+    "url": "https://github.com/ulises-jeremias/langchainv",
+    "user_id": 71,
+    "vcs": "git"
+}

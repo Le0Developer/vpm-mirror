@@ -1,25 +1,25 @@
 {
-    "id": 584,
-    "name": "KeyWeeUsr.problemdetail",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2024-11-08T22:22:53.000Z",
+        "github_id": 0,
+        "id": 1509,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2024-11-08T22:22:53.000Z",
+        "username": "KeyWeeUsr"
+    },
+    "created_at": "2025-01-09T00:03:13.000Z",
     "description": "An implementation of RFC9457, Problem Details for HTTP APIs",
     "documentation": "",
-    "url": "https://github.com/KeyWeeUsr/problemdetail",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1509,
-    "author": {
-        "id": 1509,
-        "github_id": 0,
-        "username": "KeyWeeUsr",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2024-11-08T22:22:53.000Z",
-        "updated_at": "2024-11-08T22:22:53.000Z"
-    },
-    "stars": 0,
+    "id": 584,
     "is_flatten": false,
+    "name": "KeyWeeUsr.problemdetail",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-01-09T00:03:13.000Z",
-    "created_at": "2025-01-09T00:03:13.000Z"
+    "url": "https://github.com/KeyWeeUsr/problemdetail",
+    "user_id": 1509,
+    "vcs": "git"
 }

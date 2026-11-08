@@ -1,25 +1,25 @@
 {
-    "id": 680,
-    "name": "tankf33der.cpurand",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2025-02-16T10:41:56.000Z",
+        "github_id": 0,
+        "id": 1705,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2025-02-16T10:41:56.000Z",
+        "username": "tankf33der"
+    },
+    "created_at": "2025-12-19T11:37:15.000Z",
     "description": "get random data from cpu",
     "documentation": "",
-    "url": "https://github.com/tankf33der/vlang-cpurand",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1705,
-    "author": {
-        "id": 1705,
-        "github_id": 0,
-        "username": "tankf33der",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2025-02-16T10:41:56.000Z",
-        "updated_at": "2025-02-16T10:41:56.000Z"
-    },
-    "stars": 0,
+    "id": 680,
     "is_flatten": false,
+    "name": "tankf33der.cpurand",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-12-19T11:37:15.000Z",
-    "created_at": "2025-12-19T11:37:15.000Z"
+    "url": "https://github.com/tankf33der/vlang-cpurand",
+    "user_id": 1705,
+    "vcs": "git"
 }

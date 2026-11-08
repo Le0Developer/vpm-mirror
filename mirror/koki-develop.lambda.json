@@ -1,25 +1,25 @@
 {
-    "id": 582,
-    "name": "koki-develop.lambda",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-10-01T21:46:57.000Z",
+        "github_id": 0,
+        "id": 859,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-10-01T21:46:57.000Z",
+        "username": "koki-develop"
+    },
+    "created_at": "2025-01-07T21:33:46.000Z",
     "description": "Libraries to help V developers develop AWS Lambda functions.",
     "documentation": "",
-    "url": "https://github.com/koki-develop/v-lambda",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 859,
-    "author": {
-        "id": 859,
-        "github_id": 0,
-        "username": "koki-develop",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-10-01T21:46:57.000Z",
-        "updated_at": "2023-10-01T21:46:57.000Z"
-    },
-    "stars": 0,
+    "id": 582,
     "is_flatten": false,
+    "name": "koki-develop.lambda",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-01-07T21:33:46.000Z",
-    "created_at": "2025-01-07T21:33:46.000Z"
+    "url": "https://github.com/koki-develop/v-lambda",
+    "user_id": 859,
+    "vcs": "git"
 }

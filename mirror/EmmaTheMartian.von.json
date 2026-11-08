@@ -1,25 +1,25 @@
 {
-    "id": 637,
-    "name": "EmmaTheMartian.von",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2024-05-06T21:46:09.000Z",
+        "github_id": 0,
+        "id": 1242,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2024-05-06T21:46:09.000Z",
+        "username": "EmmaTheMartian"
+    },
+    "created_at": "2025-07-18T06:58:40.000Z",
     "description": "# Von - Veasally Object Notation\r\n\r\nVon is yet another &lt;language&gt;-y object notation language, but this time\r\nfor Vlang.\r\n\r\nVon's is also *fast*:\r\n\r\n```\r\n$ sh benchmark.sh\r\nBenchmark: 100000 runs on dataset.von\r\nTotal Runtime: 34:08.589\r\nAverage Runtime: 20.485ms\r\n\r\n$ du dataset.von -h\r\n168K\tdataset.von\r\n```\r\n\r\nThis benchmark ran over the course of 34 minutes parsing a 11K LOC Von 100k\r\ntimes. The file contained \"bells and whistles\" in the syntax (commas, map type\r\ndeclarations, etc) to make it a little more tough on the parser. This was\r\ncompiled **without optimizations**.\r\n\r\nTo run the benchmark for yourself, clone the repo and `cd benchmark`, then run\r\n`benchmark.sh`. It will take a *while* by default. If you want to speed it up,\r\nyou can reduce the amount of test iterations in `benchmark.vsh` or make the",
     "documentation": "",
-    "url": "https://github.com/EmmaTheMartian/von",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1242,
-    "author": {
-        "id": 1242,
-        "github_id": 0,
-        "username": "EmmaTheMartian",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2024-05-06T21:46:09.000Z",
-        "updated_at": "2024-05-06T21:46:09.000Z"
-    },
-    "stars": 0,
+    "id": 637,
     "is_flatten": false,
+    "name": "EmmaTheMartian.von",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-07-18T06:58:40.000Z",
-    "created_at": "2025-07-18T06:58:40.000Z"
+    "url": "https://github.com/EmmaTheMartian/von",
+    "user_id": 1242,
+    "vcs": "git"
 }

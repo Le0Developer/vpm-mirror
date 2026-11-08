@@ -1,25 +1,25 @@
 {
-    "id": 717,
-    "name": "xn0px90.webgpu",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-11-25T15:23:06.000Z",
+        "github_id": 0,
+        "id": 989,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-11-25T15:23:06.000Z",
+        "username": "xn0px90"
+    },
+    "created_at": "2026-05-31T06:23:38.000Z",
     "description": "The WebGPU binding for V (v-webgpu) provides a native, high-performance interface to modern graphics and compute hardware. Utilizing c2v for seamless, zero-overhead interop with underlying C-based WebGPU implementations, it brings WebGPU's modern, cross-platform pipeline architecture—combining the benefits of Vulkan, Metal, and DirectX 12—directly into the V ecosystem for hardware-accelerated graphics and compute applications.",
     "documentation": "",
-    "url": "https://github.com/xn0px90/v-webgpu",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 989,
-    "author": {
-        "id": 989,
-        "github_id": 0,
-        "username": "xn0px90",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-11-25T15:23:06.000Z",
-        "updated_at": "2023-11-25T15:23:06.000Z"
-    },
-    "stars": 0,
+    "id": 717,
     "is_flatten": false,
+    "name": "xn0px90.webgpu",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-05-31T06:23:38.000Z",
-    "created_at": "2026-05-31T06:23:38.000Z"
+    "url": "https://github.com/xn0px90/v-webgpu",
+    "user_id": 989,
+    "vcs": "git"
 }

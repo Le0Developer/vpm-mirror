@@ -1,25 +1,25 @@
 {
-    "id": 685,
-    "name": "vglyph",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-01-04T17:04:49.000Z",
+        "github_id": 0,
+        "id": 2027,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-01-04T17:04:49.000Z",
+        "username": "mike-ward"
+    },
+    "created_at": "2026-01-04T17:06:37.000Z",
     "description": "VGlyph is a high-performance text rendering engine designed specifically for the V programming language by integrating the capabilities of Pango, FreeType, and Sokol. Its primary architecture focuses on decoupling text layout from rendering, which allows developers to calculate complex typography—such as bidirectional scripts and rich text markup—without straining the graphics system. Key features include sub-pixel accurate rendering, dynamic glyph atlas management for efficient GPU usage, and robust hit-testing for interactive user interfaces. By offering both a high-level TextSystem API for ease of use and manual controls for advanced performance, the library provides a flexible solution for displaying sophisticated, production-grade typography in V-based applications.",
     "documentation": "",
-    "url": "https://github.com/mike-ward/vglyph",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 2027,
-    "author": {
-        "id": 2027,
-        "github_id": 0,
-        "username": "mike-ward",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2026-01-04T17:04:49.000Z",
-        "updated_at": "2026-01-04T17:04:49.000Z"
-    },
-    "stars": 0,
+    "id": 685,
     "is_flatten": false,
+    "name": "vglyph",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-01-04T17:06:37.000Z",
-    "created_at": "2026-01-04T17:06:37.000Z"
+    "url": "https://github.com/mike-ward/vglyph",
+    "user_id": 2027,
+    "vcs": "git"
 }

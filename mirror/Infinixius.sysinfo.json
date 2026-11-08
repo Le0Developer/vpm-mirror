@@ -1,25 +1,25 @@
 {
-    "id": 403,
-    "name": "Infinixius.sysinfo",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-06-28T20:49:45.000Z",
+        "github_id": 0,
+        "id": 632,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-06-28T20:49:45.000Z",
+        "username": "Infinixius"
+    },
+    "created_at": "2023-06-28T20:51:33.000Z",
     "description": "System information module for V ",
     "documentation": "",
-    "url": "https://github.com/Infinixius/sysinfo",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 632,
-    "author": {
-        "id": 632,
-        "github_id": 0,
-        "username": "Infinixius",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-06-28T20:49:45.000Z",
-        "updated_at": "2023-06-28T20:49:45.000Z"
-    },
-    "stars": 0,
+    "id": 403,
     "is_flatten": false,
+    "name": "Infinixius.sysinfo",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-06-28T20:51:33.000Z",
-    "created_at": "2023-06-28T20:51:33.000Z"
+    "url": "https://github.com/Infinixius/sysinfo",
+    "user_id": 632,
+    "vcs": "git"
 }

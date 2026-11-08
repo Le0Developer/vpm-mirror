@@ -1,25 +1,25 @@
 {
-    "id": 473,
-    "name": "gilmartaj.props",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-10-19T05:42:49.000Z",
+        "github_id": 0,
+        "id": 907,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-10-19T05:42:49.000Z",
+        "username": "gilmartaj"
+    },
+    "created_at": "2023-10-19T05:44:46.000Z",
     "description": "A simple module to simplify working with \".properties\" files.",
     "documentation": "",
-    "url": "https://github.com/gilmartaj/props",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 907,
-    "author": {
-        "id": 907,
-        "github_id": 0,
-        "username": "gilmartaj",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-10-19T05:42:49.000Z",
-        "updated_at": "2023-10-19T05:42:49.000Z"
-    },
-    "stars": 0,
+    "id": 473,
     "is_flatten": false,
+    "name": "gilmartaj.props",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-10-19T05:44:46.000Z",
-    "created_at": "2023-10-19T05:44:46.000Z"
+    "url": "https://github.com/gilmartaj/props",
+    "user_id": 907,
+    "vcs": "git"
 }

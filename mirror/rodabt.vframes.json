@@ -1,25 +1,25 @@
 {
-    "id": 543,
-    "name": "rodabt.vframes",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T15:50:05.000Z",
+        "github_id": 0,
+        "id": 391,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T15:50:05.000Z",
+        "username": "rodabt"
+    },
+    "created_at": "2024-05-23T20:47:04.000Z",
     "description": "DataFrames for V, inspired by Pandas",
     "documentation": "",
-    "url": "https://github.com/rodabt/vframes",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 391,
-    "author": {
-        "id": 391,
-        "github_id": 0,
-        "username": "rodabt",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T15:50:05.000Z",
-        "updated_at": "2023-05-07T15:50:05.000Z"
-    },
-    "stars": 0,
+    "id": 543,
     "is_flatten": false,
+    "name": "rodabt.vframes",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2024-05-23T20:47:04.000Z",
-    "created_at": "2024-05-23T20:47:04.000Z"
+    "url": "https://github.com/rodabt/vframes",
+    "user_id": 391,
+    "vcs": "git"
 }

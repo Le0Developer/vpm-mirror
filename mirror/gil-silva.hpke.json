@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-11-01T22:53:51.720Z",
+        "github_id": 0,
+        "id": 2323,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-11-01T22:53:51.720Z",
+        "username": "gil-silva"
+    },
+    "created_at": "2026-11-04T13:49:48.435Z",
+    "description": "HPKE public key encryption (RFC 9180), in pure V: the X25519 DH KEM (composed with gil_silva.x25519), the HKDF-based context KDF over the standard library and the ChaCha20-Poly1305 AEAD (composed with gil_silva.chacha20poly1305), for all four protocol modes, plus the export-only AEAD (0xffff).",
+    "documentation": "",
+    "id": 789,
+    "is_flatten": false,
+    "name": "gil-silva.hpke",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-11-04T13:49:48.435Z",
+    "url": "https://github.com/gil-silva/hpke",
+    "user_id": 2323,
+    "vcs": "git"
+}

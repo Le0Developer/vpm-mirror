@@ -1,25 +1,25 @@
 {
-    "id": 686,
-    "name": "Te4nick.jsonrpcv",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-01-11T18:17:00.000Z",
+        "github_id": 0,
+        "id": 2032,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-01-11T18:17:00.000Z",
+        "username": "Te4nick"
+    },
+    "created_at": "2026-01-11T20:15:40.000Z",
     "description": "JSON-RPC 2.0 library and client+server implementation in pure V.",
     "documentation": "",
-    "url": "https://github.com/Te4nick/jsonrpcv",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 2032,
-    "author": {
-        "id": 2032,
-        "github_id": 0,
-        "username": "Te4nick",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2026-01-11T18:17:00.000Z",
-        "updated_at": "2026-01-11T18:17:00.000Z"
-    },
-    "stars": 0,
+    "id": 686,
     "is_flatten": false,
+    "name": "Te4nick.jsonrpcv",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-01-11T20:15:40.000Z",
-    "created_at": "2026-01-11T20:15:40.000Z"
+    "url": "https://github.com/Te4nick/jsonrpcv",
+    "user_id": 2032,
+    "vcs": "git"
 }

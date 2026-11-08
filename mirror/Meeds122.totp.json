@@ -1,25 +1,25 @@
 {
-    "id": 661,
-    "name": "Meeds122.totp",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2025-09-25T00:48:45.000Z",
+        "github_id": 0,
+        "id": 1913,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2025-09-25T00:48:45.000Z",
+        "username": "Meeds122"
+    },
+    "created_at": "2025-10-07T19:45:53.000Z",
     "description": "A basic rfc6238 compliant TOTP (time-based one time password) creator and checker library in V for easy multi-factor authentication (MFA/2FA).",
     "documentation": "",
-    "url": "https://github.com/Meeds122/totp",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 1913,
-    "author": {
-        "id": 1913,
-        "github_id": 0,
-        "username": "Meeds122",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2025-09-25T00:48:45.000Z",
-        "updated_at": "2025-09-25T00:48:45.000Z"
-    },
-    "stars": 0,
+    "id": 661,
     "is_flatten": false,
+    "name": "Meeds122.totp",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2025-10-07T19:45:53.000Z",
-    "created_at": "2025-10-07T19:45:53.000Z"
+    "url": "https://github.com/Meeds122/totp",
+    "user_id": 1913,
+    "vcs": "git"
 }

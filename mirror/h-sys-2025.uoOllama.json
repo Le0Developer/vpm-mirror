@@ -1,25 +1,25 @@
 {
-    "id": 725,
-    "name": "h-sys-2025.uoOllama",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-06-23T07:55:48.000Z",
+        "github_id": 0,
+        "id": 2172,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-06-23T07:55:48.000Z",
+        "username": "h-sys-2025"
+    },
+    "created_at": "2026-06-23T08:11:36.000Z",
     "description": "Un-Official-Ollama: A simple ollama LIB, which allows developers to interact with selfhosted ollama models easily.",
     "documentation": "",
-    "url": "https://github.com/h-sys-2025/uoOllama",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 2172,
-    "author": {
-        "id": 2172,
-        "github_id": 0,
-        "username": "h-sys-2025",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2026-06-23T07:55:48.000Z",
-        "updated_at": "2026-06-23T07:55:48.000Z"
-    },
-    "stars": 0,
+    "id": 725,
     "is_flatten": false,
+    "name": "h-sys-2025.uoOllama",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-06-23T08:11:36.000Z",
-    "created_at": "2026-06-23T08:11:36.000Z"
+    "url": "https://github.com/h-sys-2025/uoOllama",
+    "user_id": 2172,
+    "vcs": "git"
 }

@@ -1,25 +1,25 @@
 {
-    "id": 226,
-    "name": "etienne-napoleone.chalk",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "github_id": 0,
+        "id": 233,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:31.000Z",
+        "username": "etienne-napoleone"
+    },
+    "created_at": "2023-05-07T14:06:31.000Z",
     "description": "",
     "documentation": "",
-    "url": "https://github.com/etienne-napoleone/chalk",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 233,
-    "author": {
-        "id": 233,
-        "github_id": 0,
-        "username": "etienne-napoleone",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:31.000Z",
-        "updated_at": "2023-05-07T14:06:31.000Z"
-    },
-    "stars": 0,
+    "id": 226,
     "is_flatten": false,
+    "name": "etienne-napoleone.chalk",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-05-07T14:06:31.000Z",
-    "created_at": "2023-05-07T14:06:31.000Z"
+    "url": "https://github.com/etienne-napoleone/chalk",
+    "user_id": 233,
+    "vcs": "git"
 }

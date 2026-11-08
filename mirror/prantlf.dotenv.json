@@ -1,25 +1,25 @@
 {
-    "id": 446,
-    "name": "prantlf.dotenv",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-06-06T06:27:29.000Z",
+        "github_id": 0,
+        "id": 579,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-06-06T06:27:29.000Z",
+        "username": "prantlf"
+    },
+    "created_at": "2023-09-10T22:47:31.000Z",
     "description": "Loads and strictly parses .env file contents, sets environment variables.",
     "documentation": "",
-    "url": "https://github.com/prantlf/v-dotenv",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 579,
-    "author": {
-        "id": 579,
-        "github_id": 0,
-        "username": "prantlf",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-06-06T06:27:29.000Z",
-        "updated_at": "2023-06-06T06:27:29.000Z"
-    },
-    "stars": 0,
+    "id": 446,
     "is_flatten": false,
+    "name": "prantlf.dotenv",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-09-10T22:47:31.000Z",
-    "created_at": "2023-09-10T22:47:31.000Z"
+    "url": "https://github.com/prantlf/v-dotenv",
+    "user_id": 579,
+    "vcs": "git"
 }

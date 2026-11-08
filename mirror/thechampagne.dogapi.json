@@ -1,25 +1,25 @@
 {
-    "id": 270,
-    "name": "thechampagne.dogapi",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "github_id": 0,
+        "id": 240,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:31.000Z",
+        "username": "thechampagne"
+    },
+    "created_at": "2023-05-07T14:06:31.000Z",
     "description": "",
     "documentation": "",
-    "url": "https://github.com/thechampagne/dogapi-v",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 240,
-    "author": {
-        "id": 240,
-        "github_id": 0,
-        "username": "thechampagne",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:31.000Z",
-        "updated_at": "2023-05-07T14:06:31.000Z"
-    },
-    "stars": 0,
+    "id": 270,
     "is_flatten": false,
+    "name": "thechampagne.dogapi",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-05-07T14:06:31.000Z",
-    "created_at": "2023-05-07T14:06:31.000Z"
+    "url": "https://github.com/thechampagne/dogapi-v",
+    "user_id": 240,
+    "vcs": "git"
 }

@@ -1,25 +1,25 @@
 {
-    "id": 422,
-    "name": "prantlf.config",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-06-06T06:27:29.000Z",
+        "github_id": 0,
+        "id": 579,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-06-06T06:27:29.000Z",
+        "username": "prantlf"
+    },
+    "created_at": "2023-08-07T21:19:03.000Z",
     "description": "Looks for a configuration file in various formats and reads it into a configuration object.",
     "documentation": "",
-    "url": "https://github.com/prantlf/v-config",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 579,
-    "author": {
-        "id": 579,
-        "github_id": 0,
-        "username": "prantlf",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-06-06T06:27:29.000Z",
-        "updated_at": "2023-06-06T06:27:29.000Z"
-    },
-    "stars": 0,
+    "id": 422,
     "is_flatten": false,
+    "name": "prantlf.config",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-08-07T21:19:03.000Z",
-    "created_at": "2023-08-07T21:19:03.000Z"
+    "url": "https://github.com/prantlf/v-config",
+    "user_id": 579,
+    "vcs": "git"
 }

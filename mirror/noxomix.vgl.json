@@ -1,25 +1,25 @@
 {
-    "id": 459,
-    "name": "noxomix.vgl",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-09-20T08:15:13.000Z",
+        "github_id": 0,
+        "id": 802,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-09-20T08:15:13.000Z",
+        "username": "noxomix"
+    },
+    "created_at": "2023-09-29T11:36:38.000Z",
     "description": "OpenGL bindings for the V language.",
     "documentation": "",
-    "url": "https://github.com/noxomix/vgl",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 802,
-    "author": {
-        "id": 802,
-        "github_id": 0,
-        "username": "noxomix",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-09-20T08:15:13.000Z",
-        "updated_at": "2023-09-20T08:15:13.000Z"
-    },
-    "stars": 0,
+    "id": 459,
     "is_flatten": false,
+    "name": "noxomix.vgl",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-09-29T11:36:38.000Z",
-    "created_at": "2023-09-29T11:36:38.000Z"
+    "url": "https://github.com/noxomix/vgl",
+    "user_id": 802,
+    "vcs": "git"
 }

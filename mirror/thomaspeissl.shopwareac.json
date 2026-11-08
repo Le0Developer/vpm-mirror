@@ -1,25 +1,25 @@
 {
-    "id": 392,
-    "name": "thomaspeissl.shopwareac",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-06-12T13:14:03.000Z",
+        "github_id": 0,
+        "id": 601,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-06-12T13:14:03.000Z",
+        "username": "thomaspeissl"
+    },
+    "created_at": "2023-06-13T13:12:51.000Z",
     "description": "Shopware 6 admin API client: The reliable way to import and update a bazillion products.",
     "documentation": "",
-    "url": "https://github.com/thomaspeissl/v-shopware-api-client",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 601,
-    "author": {
-        "id": 601,
-        "github_id": 0,
-        "username": "thomaspeissl",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-06-12T13:14:03.000Z",
-        "updated_at": "2023-06-12T13:14:03.000Z"
-    },
-    "stars": 0,
+    "id": 392,
     "is_flatten": false,
+    "name": "thomaspeissl.shopwareac",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-06-13T13:12:51.000Z",
-    "created_at": "2023-06-13T13:12:51.000Z"
+    "url": "https://github.com/thomaspeissl/v-shopware-api-client",
+    "user_id": 601,
+    "vcs": "git"
 }

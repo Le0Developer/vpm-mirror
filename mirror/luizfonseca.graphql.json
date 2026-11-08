@@ -1,25 +1,25 @@
 {
-    "id": 453,
-    "name": "luizfonseca.graphql",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-09-16T13:56:46.000Z",
+        "github_id": 0,
+        "id": 790,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-09-16T13:56:46.000Z",
+        "username": "luizfonseca"
+    },
+    "created_at": "2023-09-17T17:58:30.000Z",
     "description": "GraphQL language parser package.\r\n\r\nFor more information see the GraphQL spec: https://graphql.org/\r\n\r\n\r\nThe library is inspired by the GraphQL.js package.",
     "documentation": "",
-    "url": "https://github.com/luizfonseca/graphql-v",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 790,
-    "author": {
-        "id": 790,
-        "github_id": 0,
-        "username": "luizfonseca",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-09-16T13:56:46.000Z",
-        "updated_at": "2023-09-16T13:56:46.000Z"
-    },
-    "stars": 0,
+    "id": 453,
     "is_flatten": false,
+    "name": "luizfonseca.graphql",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-09-17T17:58:30.000Z",
-    "created_at": "2023-09-17T17:58:30.000Z"
+    "url": "https://github.com/luizfonseca/graphql-v",
+    "user_id": 790,
+    "vcs": "git"
 }

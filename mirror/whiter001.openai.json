@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-09-30T17:33:54.169Z",
+        "github_id": 0,
+        "id": 2277,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-09-30T17:33:54.169Z",
+        "username": "whiter001"
+    },
+    "created_at": "2026-10-02T14:11:06.627Z",
+    "description": "OpenAI-compatible LLM API client: chat completions, streaming, tool calling and embeddings. Works with OpenAI, DeepSeek, Kimi, GLM, Ollama and any compatible endpoint.",
+    "documentation": "",
+    "id": 765,
+    "is_flatten": false,
+    "name": "whiter001.openai",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-10-02T14:11:06.627Z",
+    "url": "https://github.com/whiter001/v-openai",
+    "user_id": 2277,
+    "vcs": "git"
+}

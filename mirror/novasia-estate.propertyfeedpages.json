@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-11-06T23:30:08.642Z",
+        "github_id": 0,
+        "id": 2336,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-11-06T23:30:08.642Z",
+        "username": "podkopov-hub"
+    },
+    "created_at": "2026-11-07T00:44:20.359Z",
+    "description": "Offline property-catalogue pagination audit: missing pages, cursor cycles, duplicate IDs and inconsistent totals/revisions. Install: v install novasia-estate.propertyfeedpages. 33 behavioral checks and a separate VPM-installed consumer verified. Current usage and guides are in Repository; the registry may cache an older README. No network or telemetry.",
+    "documentation": "",
+    "id": 791,
+    "is_flatten": false,
+    "name": "novasia-estate.propertyfeedpages",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-11-07T00:44:20.359Z",
+    "url": "https://github.com/novasia-estate/propertyfeedpages",
+    "user_id": 2336,
+    "vcs": "git"
+}

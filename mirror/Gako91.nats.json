@@ -1,25 +1,25 @@
 {
-    "id": 739,
-    "name": "Gako91.nats",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-07-29T16:19:05.000Z",
+        "github_id": 0,
+        "id": 2198,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-07-29T16:19:05.000Z",
+        "username": "Gako91"
+    },
+    "created_at": "2026-08-14T22:07:05.000Z",
     "description": "`nats` is an open-source NATS and JetStream client for the V programming language.\r\nThe project focuses on simplicity, performance and idiomatic V APIs, while progressively building a production-ready messaging client for the V ecosystem.",
     "documentation": "",
-    "url": "https://github.com/Gako91/nats.git",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 2198,
-    "author": {
-        "id": 2198,
-        "github_id": 0,
-        "username": "Gako91",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2026-07-29T16:19:05.000Z",
-        "updated_at": "2026-07-29T16:19:05.000Z"
-    },
-    "stars": 0,
+    "id": 739,
     "is_flatten": false,
+    "name": "Gako91.nats",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2026-08-14T22:07:05.000Z",
-    "created_at": "2026-08-14T22:07:05.000Z"
+    "url": "https://github.com/Gako91/nats.git",
+    "user_id": 2198,
+    "vcs": "git"
 }

@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-06-19T22:10:44.000Z",
+        "github_id": 0,
+        "id": 2167,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-06-19T22:10:44.000Z",
+        "username": "jrmarcum"
+    },
+    "created_at": "2026-10-22T00:30:05.552Z",
+    "description": "Idiomatic V binding for the Universal WASM Loader. It wraps the C single-header loader so you call .wasm exports with native V values and !/or error handling.\r\n\r\nThe hard parts (WIT parsing, Canonical ABI marshalling, cabi_post string returns, version pinning) live once, in the C loader. This repo is a thin wrapper over it (a small C shim + a V module) — built on the wasmtime C API.",
+    "documentation": "",
+    "id": 771,
+    "is_flatten": false,
+    "name": "synapticforge1.uwl",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-10-22T00:30:05.552Z",
+    "url": "https://github.com/synapticforge1/universalWasmLoader-v.git",
+    "user_id": 2167,
+    "vcs": "git"
+}

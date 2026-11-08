@@ -1,25 +1,25 @@
 {
-    "id": 306,
-    "name": "xy3.passvalid",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:31.000Z",
+        "github_id": 0,
+        "id": 313,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:31.000Z",
+        "username": "xy3"
+    },
+    "created_at": "2023-05-07T14:06:31.000Z",
     "description": "",
     "documentation": "",
-    "url": "https://github.com/xy3/v-password-validator",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 313,
-    "author": {
-        "id": 313,
-        "github_id": 0,
-        "username": "xy3",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:31.000Z",
-        "updated_at": "2023-05-07T14:06:31.000Z"
-    },
-    "stars": 0,
+    "id": 306,
     "is_flatten": false,
+    "name": "xy3.passvalid",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-05-07T14:06:31.000Z",
-    "created_at": "2023-05-07T14:06:31.000Z"
+    "url": "https://github.com/xy3/v-password-validator",
+    "user_id": 313,
+    "vcs": "git"
 }

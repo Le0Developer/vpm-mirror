@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-09-28T13:29:47.911Z",
+        "github_id": 0,
+        "id": 2273,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-09-28T13:29:47.911Z",
+        "username": "PUSHPAK-JAISWAL"
+    },
+    "created_at": "2026-09-28T18:29:14.341Z",
+    "description": "This repository provides a V binding for webview, a cross-platform library for building desktop applications with native web views.\r\n\r\nMaintained by Pushpak Jaiswal (pushpakmjaiswal@gmail.com). This is a community-maintained continuation of ttytm/webview. The original project and its contributors remain credited; this repository carries forward the V compatibility, packaging, and platform-build updates described here.\r\n\r\nThe upstream C++ implementation is pinned in UPSTREAM_WEBVIEW_VERSION. A scheduled GitHub Actions workflow checks upstream tags and opens a pull request with updated source for review.",
+    "documentation": "",
+    "id": 763,
+    "is_flatten": false,
+    "name": "PUSHPAK-JAISWAL.webview",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-09-28T18:29:14.341Z",
+    "url": "https://github.com/PUSHPAK-JAISWAL/webview.git",
+    "user_id": 2273,
+    "vcs": "git"
+}

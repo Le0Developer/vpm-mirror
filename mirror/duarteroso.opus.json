@@ -1,25 +1,25 @@
 {
-    "id": 346,
-    "name": "duarteroso.opus",
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2023-05-07T14:06:30.000Z",
+        "github_id": 0,
+        "id": 50,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2023-05-07T14:06:30.000Z",
+        "username": "duarteroso"
+    },
+    "created_at": "2023-05-07T14:06:31.000Z",
     "description": "",
     "documentation": "",
-    "url": "https://github.com/duarteroso/opus",
-    "nr_downloads": -1,
-    "vcs": "git",
-    "user_id": 50,
-    "author": {
-        "id": 50,
-        "github_id": 0,
-        "username": "duarteroso",
-        "avatar_url": "",
-        "is_blocked": false,
-        "block_reason": "",
-        "is_admin": false,
-        "created_at": "2023-05-07T14:06:30.000Z",
-        "updated_at": "2023-05-07T14:06:30.000Z"
-    },
-    "stars": 0,
+    "id": 346,
     "is_flatten": false,
+    "name": "duarteroso.opus",
+    "nr_downloads": -1,
+    "stars": 0,
     "updated_at": "2023-05-07T14:06:31.000Z",
-    "created_at": "2023-05-07T14:06:31.000Z"
+    "url": "https://github.com/duarteroso/opus",
+    "user_id": 50,
+    "vcs": "git"
 }

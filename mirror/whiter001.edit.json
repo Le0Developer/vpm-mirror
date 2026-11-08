@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-09-30T17:33:54.169Z",
+        "github_id": 0,
+        "id": 2277,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-09-30T17:33:54.169Z",
+        "username": "whiter001"
+    },
+    "created_at": "2026-10-04T08:18:50.869Z",
+    "description": "A simple terminal text editor, V rewrite of microsoft/edit",
+    "documentation": "",
+    "id": 766,
+    "is_flatten": false,
+    "name": "whiter001.edit",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-10-04T08:18:50.869Z",
+    "url": "https://github.com/whiter001/edit.v",
+    "user_id": 2277,
+    "vcs": "git"
+}
