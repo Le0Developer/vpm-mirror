@@ -116,7 +116,7 @@ fn mirror_package(name string) ! {
 		return error('Package not found')
 	}
 
-	parsed := json2.decode[json2.Any](upstream.body)!
+	mut parsed := json2.decode[json2.Any](upstream.body)!
 	mut top := parsed.as_map()
 	top['nr_downloads'] = -1
 
