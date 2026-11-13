@@ -15,11 +15,11 @@
     "documentation": "",
     "id": 794,
     "is_flatten": false,
-    "name": "asyncbtd.vecs",
+    "name": "asyncbtd.vessel",
     "nr_downloads": -1,
     "stars": 0,
     "updated_at": "2026-11-10T02:20:35.840Z",
-    "url": "https://github.com/asyncbtd/vecs",
+    "url": "https://github.com/asyncbtd/vessel",
     "user_id": 2339,
     "vcs": "git"
 }

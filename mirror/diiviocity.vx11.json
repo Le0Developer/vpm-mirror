@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-08-31T18:02:50.250Z",
+        "github_id": 0,
+        "id": 2227,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-08-31T18:02:50.250Z",
+        "username": "diiviocity"
+    },
+    "created_at": "2026-11-12T23:53:11.207Z",
+    "description": "V bindings for libraries from the X11 stack",
+    "documentation": "",
+    "id": 795,
+    "is_flatten": false,
+    "name": "diiviocity.vx11",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-11-12T23:53:11.207Z",
+    "url": "https://github.com/diiviocity/vx11",
+    "user_id": 2227,
+    "vcs": "git"
+}
