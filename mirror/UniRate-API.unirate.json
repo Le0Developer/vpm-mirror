@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-11-15T05:17:29.491Z",
+        "github_id": 0,
+        "id": 2345,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-11-15T05:17:29.491Z",
+        "username": "rob-browncc"
+    },
+    "created_at": "2026-11-15T05:17:45.365Z",
+    "description": "Official V client for the UniRate API — free currency exchange rates, historical data, and VAT rates. Zero dependencies.",
+    "documentation": "",
+    "id": 796,
+    "is_flatten": false,
+    "name": "UniRate-API.unirate",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-11-15T05:17:45.365Z",
+    "url": "https://github.com/UniRate-API/unirate-api-v",
+    "user_id": 2345,
+    "vcs": "git"
+}
