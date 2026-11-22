@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-11-21T04:10:12.855Z",
+        "github_id": 0,
+        "id": 2351,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-11-21T04:10:12.855Z",
+        "username": "trobukan"
+    },
+    "created_at": "2026-11-21T05:06:18.076Z",
+    "description": "Validación, formateo y generación de RUT chileno.",
+    "documentation": "",
+    "id": 802,
+    "is_flatten": false,
+    "name": "trobukan.rutcl",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-11-21T05:06:18.076Z",
+    "url": "https://github.com/trobukan/rutcl",
+    "user_id": 2351,
+    "vcs": "git"
+}
