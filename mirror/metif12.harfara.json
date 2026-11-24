@@ -11,15 +11,15 @@
         "username": "metif12"
     },
     "created_at": "2026-11-15T13:32:00.182Z",
-    "description": "A complete font and text package in V: load, shape, lay out, rasterize, inspect and subset — one library where each job is a separate part with its own API and its own conformance baseline. It replaces FreeType, HarfBuzz, Pango and fontconfig per part, on Windows, Linux and macOS, with answers as good and throughput measured better — or the claim is not made.",
+    "description": "A complete font and text package in V: load, shape, lay out, rasterize, inspect and subset — one library where each job is a separate part with its own API and its own conformance baseline. It replaces FreeType, HarfBuzz, Pango, fontconfig, fontstash and stb_truetype per part, on Windows, Linux and macOS, with answers as good and throughput measured better — or the claim is not made.",
     "documentation": "",
     "id": 797,
     "is_flatten": false,
-    "name": "metif12.vtext",
+    "name": "metif12.harfara",
     "nr_downloads": -1,
     "stars": 0,
     "updated_at": "2026-11-15T13:32:00.182Z",
-    "url": "https://github.com/metif12/vtext",
+    "url": "https://github.com/metif12/harfara",
     "user_id": 1084,
     "vcs": "git"
 }

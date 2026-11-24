@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-11-23T06:07:14.566Z",
+        "github_id": 0,
+        "id": 2354,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-11-23T06:07:14.566Z",
+        "username": "sekzerd"
+    },
+    "created_at": "2026-11-23T06:51:55.943Z",
+    "description": "A vlang USB HID library for Windows.",
+    "documentation": "",
+    "id": 805,
+    "is_flatten": false,
+    "name": "sekzerd.vhidwin",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-11-23T06:51:55.943Z",
+    "url": "https://github.com/sekzerd/vhid_win",
+    "user_id": 2354,
+    "vcs": "git"
+}
