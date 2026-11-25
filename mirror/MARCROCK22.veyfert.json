@@ -1,0 +1,25 @@
+{
+    "author": {
+        "avatar_url": "",
+        "block_reason": "",
+        "created_at": "2026-10-07T14:29:52.135Z",
+        "github_id": 0,
+        "id": 2284,
+        "is_admin": false,
+        "is_blocked": false,
+        "updated_at": "2026-10-07T14:29:52.135Z",
+        "username": "MARCROCK22"
+    },
+    "created_at": "2026-11-25T00:18:34.348Z",
+    "description": "Discord bot framework for V, inspired by Seyfert. Commands, options, components, modals and events are plain V structs with attributes that veyfert reads at compile time, so options are typed fields and mistakes fail to build. It includes a sharded gateway with resuming and zlib or zstd compression, REST with rate limits and generated endpoints, an in-memory cache with shorters, Components v2, prefix commands, languages, plugins, interactions over HTTP and a testing kit.",
+    "documentation": "",
+    "id": 807,
+    "is_flatten": false,
+    "name": "MARCROCK22.veyfert",
+    "nr_downloads": -1,
+    "stars": 0,
+    "updated_at": "2026-11-25T00:18:34.348Z",
+    "url": "https://github.com/MARCROCK22/veyfert",
+    "user_id": 2284,
+    "vcs": "git"
+}
