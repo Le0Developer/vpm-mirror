@@ -10,16 +10,16 @@
         "updated_at": "2024-01-14T18:59:36.000Z",
         "username": "metif12"
     },
-    "created_at": "2026-11-22T13:12:04.456Z",
-    "description": "A pure-V download engine: multi-connection HTTP(S), resume, aria2-format sessions, and the JSON-RPC surface Fluxget already calls.\r\n\r\n",
+    "created_at": "2026-11-25T07:19:02.422Z",
+    "description": "Process mining toolkit in V: CSV/XES/OCEL ingest, alpha and heuristic discovery, conformance, PNML/DOT/BPMN/JSON export, extensible library and CLI",
     "documentation": "",
-    "id": 804,
+    "id": 810,
     "is_flatten": false,
-    "name": "metif12.fluxdl",
+    "name": "mahdirir.flowkit",
     "nr_downloads": -1,
     "stars": 0,
-    "updated_at": "2026-11-22T13:12:04.456Z",
-    "url": "https://github.com/metif12/fluxdl",
+    "updated_at": "2026-11-25T07:19:02.422Z",
+    "url": "https://github.com/mahdirir/flowkit",
     "user_id": 1084,
     "vcs": "git"
 }
